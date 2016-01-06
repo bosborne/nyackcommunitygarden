@@ -52,11 +52,6 @@
           <iframe src='http://www.youtube.com/embed/{{ page.youtubecode }}' frameborder='0' allowfullscreen></iframe>
         </div>
         {% endif  %}
-    		{% if content contains '<!--more-->' %}
-          {{ content | split:'<!--more-->' | last }}
-        {% else %}
-          {{ content }}
-        {% endif %}
     	</div>
     </div>
     <div class="footer">
