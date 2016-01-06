@@ -12,19 +12,19 @@ This organization has been in existence for some 35 years, they're dedicated to 
 
 ### Johnny's Seeds
 
-<http://www.johnnyseeds.com/>
+http://www.johnnyseeds.com/
 
 Seeds, plants, and many tools too, from Maine. You can get [BioTelo biodegradable mulch here](http://www.johnnyseeds.com/p-6978-biotelo-biodegradable-mulch-4-5-x-32.aspx). Excellent source of information about growing in the North East, both varieties and practices. Definitely check this out if you want to order online.
 
 ### Kitchen Garden Seeds
 
-<http://kitchengardenseeds.com/>
+http://kitchengardenseeds.com/
 
 Small but very carefully selected catalog of seeds, both flowers and vegetables. They are based in Connecticut so their varieties work well in our weather.
 
 ### Cross Country Nurseries
 
-<http://www.chileplants.com/>
+http://www.chileplants.com/
 
 According to them this is the **World's largest selection of chile and sweet pepper plants. Tomatoes too!** Easy to believe. Amazing selection of peppers, every variety and species you've ever heard of, or haven't heard of. *Datil, chiltepin, anchos, habaneros, Scotch Bonnet*, even the [Carolina Reaper](http://www.chileplants.com/search.aspx?SearchName=SMOKIN%27+ED%27S+CAROLINA+REAPER&ProductCode=CHICARP), world's hottest pepper!
 
@@ -32,7 +32,7 @@ They also have tomatilloes and eggplants. In New Jersey.
 
 ### Hudson Valley Seed Library
 
-<http://www.seedlibrary.org/>
+http://www.seedlibrary.org/
 
 From our own valley, a source for heirloom and open-pollinated garden seeds that are grown here and should do well.
 

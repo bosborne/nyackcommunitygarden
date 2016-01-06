@@ -4,13 +4,13 @@ pageclass: blog
 title: "And more on our garden soil"
 published: true
 ---
-![1030\_Test\_Results.png](/images/1030_Test_Results.png)
+![1030\_Test\_Results.png]({{site.url}}/images/1030_Test_Results.png)
 
 The second test performed by [Cornell Nutrient Analysis Lab](http://cnal.cals.cornell.edu/ "Cornell Nutrient Analysis Lab") was their #1030 Soil Fertility Test. The results, above, are expressed in *mg/Kg*, equivalent to *parts per million* (ppm). The table below shows recommended ranges for some of these nutrients in farm or garden soil.
 
-![Soil\_Nutrient\_Ranges.png](/images/Soil_Nutrient_Ranges.png)
+![Soil\_Nutrient\_Ranges.png]({{site.url}}/images/Soil_Nutrient_Ranges.png)
 
-The [previous article on soil tests](/blog/our-garden-soil/) mentioned some high total, metal levels, like those for iron (Fe) and aluminum (Al). But these metals only harm your plants if the soil is acid, which will dissolve the metals and make them available to the plants. You can see at the top that the soil's pH is 7.04, nearly neutral, neither acid nor alkaline. So we're in good shape there, the plants will do fine with the Fe and Al levels in our soil since most of the iron and aluminum is insoluble.
+The [previous article on soil tests]({{site.url}}/blog/our-garden-soil/) mentioned some high total, metal levels, like those for iron (Fe) and aluminum (Al). But these metals only harm your plants if the soil is acid, which will dissolve the metals and make them available to the plants. You can see at the top that the soil's pH is 7.04, nearly neutral, neither acid nor alkaline. So we're in good shape there, the plants will do fine with the Fe and Al levels in our soil since most of the iron and aluminum is insoluble.
 
 On the right you can see that the phosphorus (P) and potassium (K) levels in the soil are high, a bit above the optimum, in fact. This means that you do not need to fertilize in any way that will add P in particular, we've got enough already.
 
@@ -22,6 +22,6 @@ Finally we get the soil nitrate level (NO3), about 14 ppm. One way agronomists t
 
 If you do add some form of nitrogen follow the instructions carefully! Over-fertilizing with N will give you big plants with lots of foliage and not much else. Great for cabbage, not so good for tomatoes.
 
-Here's a nice PDF on soil testing, if you're interested in reading more: [Understanding the Numbers in Your Soil Test Report](/pdf/Understanding_the_Numbers_in_Your_Soil_Test_Report.pdf).
+Here's a nice PDF on soil testing, if you're interested in reading more: [Understanding the Numbers in Your Soil Test Report]({{site.url}}/pdf/Understanding_the_Numbers_in_Your_Soil_Test_Report.pdf).
 
 *Brian O*

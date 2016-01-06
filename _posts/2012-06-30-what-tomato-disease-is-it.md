@@ -14,14 +14,14 @@ I've looked at various Web sites and concluded that it's likely to be [Gray Leaf
 - Sections of the leaf turn brown and die
 
 
-![Diseased leaf 1](/images/DSCN8049_large_450x337.jpg)
-![Diseased leaf 2](/images/DSCN8053_large_450x337.jpg)
-![Diseased leaf 3](/images/DSCN8059_large_450x337.jpg)  
-![Diseased leaf 4](/images/DSCN8060_large_450x337.jpg)  
-![Diseased leaf 5](/images/DSCN8063_large_450x337.jpg)  
-![Diseased leaf 6](/images/DSCN8065_large_450x337.jpg)  
-![Diseased leaf 7](/images/DSCN8067_large_450x337.jpg)
-![Diseased leaf 8](/images/DSCN8068_large_450x337.jpg)
+![Diseased leaf 1]({{site.url}}/images/DSCN8049_large_450x337.jpg)
+![Diseased leaf 2]({{site.url}}/images/DSCN8053_large_450x337.jpg)
+![Diseased leaf 3]({{site.url}}/images/DSCN8059_large_450x337.jpg)  
+![Diseased leaf 4]({{site.url}}/images/DSCN8060_large_450x337.jpg)  
+![Diseased leaf 5]({{site.url}}/images/DSCN8063_large_450x337.jpg)  
+![Diseased leaf 6]({{site.url}}/images/DSCN8065_large_450x337.jpg)  
+![Diseased leaf 7]({{site.url}}/images/DSCN8067_large_450x337.jpg)
+![Diseased leaf 8]({{site.url}}/images/DSCN8068_large_450x337.jpg)
 
 Here's some common-sense advice:
 
