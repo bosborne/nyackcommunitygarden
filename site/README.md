@@ -1,4 +1,3 @@
-nyackcommunitygarden.info
-===============
+# nyackcommunitygarden
 
-Home page for the Nyack Community Garden
+Jekyll site for the Nyack Community Garden

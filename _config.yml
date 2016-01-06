@@ -1,7 +1,7 @@
 name: Nyack Community Garden
 markdown: redcarpet
-url: 
-port: 4000
+url: http://bosborne.github.io/ncg
+port: 
 destination: site
 exclude: ["CNAME", "README.me"]
 excerpt_separator: <!--more-->
