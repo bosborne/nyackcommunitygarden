@@ -12,4 +12,4 @@ You can plant transplants or sow seed for [arugula](http://www.kitchengardenseed
 
 Here's a [Zone 7 planting calendar](/blog/zone-7-planting-calendar/).
 
-This would also be a good time to plant a [cover crop]({{site.url}}/blog/cover-crops/) if you are so inclined.
+This would also be a good time to plant a [cover crop](/blog/cover-crops/) if you are so inclined.
