@@ -1,6 +1,7 @@
 name: Nyack Community Garden
 markdown: redcarpet
-url: http://bosborne.github.io
+url: http://nyackcommunitygarden.info
+description: Web site for the Nyack Community Garden in Nyack NY USA
 port: 
 destination: site
 exclude: ["CNAME", "README.me"]
