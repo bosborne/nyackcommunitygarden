@@ -2,7 +2,7 @@
 	font-family: 'Arial';
 	font-style: normal;
 	font-weight: 300;
-	src: local('Arial'), local('Arial'), url(http://themes.googleusercontent.com/licensed/font?kit=AgYOQ731ufUQTvv4tet3mv6L1liJy2FlfhwGgV-nGzY_qLe1oaEDYcVvV0hz1K_eYcWjH8hgIBhLo1F72tOwUm6pof1ayxXsTArZc4TqcdM) format('woff2'), url(http://themes.googleusercontent.com/licensed/font?kit=b7fR6XGf1n7URBWwDk4XXv6L1liJy2FlfhwGgV-nGzY_qLe1oaEDYcVvV0hz1K_eYcWjH8hgIBhLo1F72tOwUm6pof1ayxXsTArZc4TqcdM) format('woff');
+	/* src: local('Arial'), local('Arial'), url(http://themes.googleusercontent.com/licensed/font?kit=AgYOQ731ufUQTvv4tet3mv6L1liJy2FlfhwGgV-nGzY_qLe1oaEDYcVvV0hz1K_eYcWjH8hgIBhLo1F72tOwUm6pof1ayxXsTArZc4TqcdM) format('woff2'), url(http://themes.googleusercontent.com/licensed/font?kit=b7fR6XGf1n7URBWwDk4XXv6L1liJy2FlfhwGgV-nGzY_qLe1oaEDYcVvV0hz1K_eYcWjH8hgIBhLo1F72tOwUm6pof1ayxXsTArZc4TqcdM) format('woff'); */
 }
 
 @font-face {
@@ -13,21 +13,7 @@
 	font-weight: normal;
 	font-style: normal;
 }
-/*
-[data-icon]:before {
-	font-family: 'Arial', sans-serif;
-	content: attr(data-icon);
-	speak: none;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	color: #e46b6d;
-	margin-right: 4px;
-}
-*/
+
 html, body, p, div, ul, li, h1, h2, h3, h4 {
 	margin: 0;
 	padding: 0;
