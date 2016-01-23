@@ -135,6 +135,10 @@ body.garden-dates .header {
    background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center center;
    background-size: 180%;
 }
+body.garden-rules .header {
+   background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center center;
+   background-size: 140%;
+}
 body.contact .header {
  	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat right center;
  	background-size: 215%;
@@ -350,6 +354,10 @@ textarea {
 	body.garden-dates .header {
 	 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
     	background-size: 110%;
+	}
+	body.garden-rules .header {
+	 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
+    	background-size: 140%;
 	}
 	body.dogs .header {
 	 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
