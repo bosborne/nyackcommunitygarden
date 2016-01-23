@@ -13,6 +13,7 @@
 	font-weight: normal;
 	font-style: normal;
 }
+/*
 [data-icon]:before {
 	font-family: 'Arial', sans-serif;
 	content: attr(data-icon);
@@ -23,11 +24,10 @@
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	/* not buttons */
 	color: #e46b6d;
 	margin-right: 4px;
 }
-
+*/
 html, body, p, div, ul, li, h1, h2, h3, h4 {
 	margin: 0;
 	padding: 0;
