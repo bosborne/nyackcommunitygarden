@@ -1,12 +1,4 @@
-/*@font-face {
-	font-family: 'Arial';
-	font-style: normal;
-	font-weight: 300;
-}
 
-@font-face {
-	font-family: 'Arial', sans-serif;
-} */
 @font-face {
 	font-family: 'Arial', sans-serif;
 	font-weight: normal;
@@ -128,11 +120,6 @@ body.contact .header {
  	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat right center;
  	background-size: 215%;
 }
-body.dogs .header {
- 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center;
- 	background-size: 150%;
- 	background-position: 0 20%;
-}
 body.info .header {
  	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center;
  	background-size: 120%;
@@ -222,7 +209,7 @@ body.blog .header {
 
 body.home li.home a,
 body.garden-dates li.garden-dates a,
-body.dogs li.dogs a,
+body.garden-rules li.garden-rules a,
 body.info li.info a,
 body.blog li.blog a,
 body.contact li.contact a {
@@ -294,7 +281,7 @@ textarea {
 	body.garden-dates .header {
     	background-size: 130%;
 	}
-	body.dogs .header {
+	body.garden-rules .header {
 	 	background-size: 120%;
 	 	background-position: 0 10%;
 	}
@@ -343,10 +330,6 @@ textarea {
 	body.garden-rules .header {
 	 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
     	background-size: 140%;
-	}
-	body.dogs .header {
-	 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
-	 	background-size: 120%;
 	}
 	body.contact .header {
 	 	background-size: 110%;
