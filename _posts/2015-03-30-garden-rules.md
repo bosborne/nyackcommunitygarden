@@ -6,7 +6,7 @@ published: true
 ---
 1.  Garden membership is at the discretion of the Garden Executive Committee.
 2.  Every gardener must attend the General Meeting on Thursday March 26.
-3.  Only one Â½ plot or full plot is allowed per household.
+3.  Only one 1/2 plot or full plot is allowed per household.
 4.  All garden plots must be fully planted by May 31.  Unattended garden plots will be re-assigned to those on the waiting list on June 1.
 5.  No gardener may transfer his or her garden to another person.
 6.  Every gardener is responsible for keeping his or her garden and the path in front of his or her plot weed-free.
