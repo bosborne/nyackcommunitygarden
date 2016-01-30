@@ -21,4 +21,5 @@ published: true
 15. Plots must be restored to their original state by garden closing date, November 1 2015.
 16. The garden is not responsible for any items left behind at the end of the season.
 
-Failure to meet any of these responsibilities at any time during the gardening season could result in loss of garden membership.
+Failure to meet any of theses responsibilities at any time during the gardening season may result in the loss of garden membership or other penalites.
+
