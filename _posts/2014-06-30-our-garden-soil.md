@@ -20,6 +20,6 @@ Wash or peel your produce, never eat the soil itself, and there's no risk from t
 
 If you do more research on this remember these are the total or *acid-soluble* levels. Many of the elements in the soil, like iron (*Fe*) and aluminum (*Al*), are present in multiple forms or salts. Most of these forms are insoluble when the soil pH is neutral, 6 to 8, and these insoluble forms are not taken up by the plants and do not affect the plants (see [Behaviour of Metals in Soil](/pdf/Behaviour_of_Metals_in_Soil.pdf) for some science on this).
 
-See [More on our garden soil](/blog/and-more-on-our-garden-soil/) for the test results on our soil's fertility.
+See [More on our garden soil](/blog/and-more-on-our-garden-soil) for the test results on our soil's fertility.
 
 *Brian O*
