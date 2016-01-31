@@ -10,6 +10,6 @@ Many vegetables do well in the spring. They will not grow as quickly as in the s
 
 You can plant transplants or sow seed for [arugula](http://www.seedsavers.org/apollo-arugula "arugula"), lettuce, members of the cabbage family (cabbage, broccoli, cauliflower, and kale), [mache](http://www.johnnyseeds.com/p-6040-vit.aspx "mache"), spinach, carrots, beets, onions, or peas. There are also many kinds of so-called [Asian greens](http://www.johnnyseeds.com/c-358-asian.aspx) that do well in cooler weather.
 
-Here's a [Zone 7 planting calendar](/blog/zone-7-planting-calendar/).
+Here's a [Zone 7 planting calendar](/blog/zone-7-planting-calendar).
 
-This would also be a good time to plant a [cover crop](/blog/cover-crops/) if you are so inclined.
+This would also be a good time to plant a [cover crop](/blog/cover-crops) if you are so inclined.
