@@ -4,7 +4,7 @@ pageclass: blog
 title: "Garden Opens"
 published: true
 ---
-The garden will open on Sunday March 29.
+The garden will open on Sunday March 29 2015.
 
 Many vegetables do well in the spring. They will not grow as quickly as in the summer months but you should be able to get good germination because of the moister soil.
 
