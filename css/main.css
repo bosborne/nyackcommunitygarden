@@ -387,3 +387,13 @@ ul.posts li {
 	width: 100%; 
 	height: 100%; 
 }
+
+
+banner_box {
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+    color: #4CE2B5;
+    border-radius: 5px;
+}
+
