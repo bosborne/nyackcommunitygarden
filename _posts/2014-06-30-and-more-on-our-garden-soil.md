@@ -10,7 +10,7 @@ The second test performed by [Cornell Nutrient Analysis Lab](http://cnal.cals.co
 
 ![Soil\_Nutrient\_Ranges.png](/images/Soil_Nutrient_Ranges.png)
 
-The [previous article on soil tests](/blog/our-garden-soil/) mentioned some high total, metal levels, like those for iron (Fe) and aluminum (Al). But these metals only harm your plants if the soil is acid, which will dissolve the metals and make them available to the plants. You can see at the top that the soil's pH is 7.04, nearly neutral, neither acid nor alkaline. So we're in good shape there, the plants will do fine with the Fe and Al levels in our soil since most of the iron and aluminum is insoluble.
+The [previous article on soil tests](/blog/our-garden-soil) mentioned some high total, metal levels, like those for iron (Fe) and aluminum (Al). But these metals only harm your plants if the soil is acid, which will dissolve the metals and make them available to the plants. You can see at the top that the soil's pH is 7.04, nearly neutral, neither acid nor alkaline. So we're in good shape there, the plants will do fine with the Fe and Al levels in our soil since most of the iron and aluminum is insoluble.
 
 On the right you can see that the phosphorus (P) and potassium (K) levels in the soil are high, a bit above the optimum, in fact. This means that you do not need to fertilize in any way that will add P in particular, we've got enough already.
 
