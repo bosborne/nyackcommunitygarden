@@ -16,6 +16,7 @@ pageclass: blog
       <time>{{ post.date | date_to_long_string }}</time>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.content }}</p>
+      <img src="/images/vegetable-bar.png" alt="picture of garden vegetables">
     </li>
   {% endfor %}
 </ul>
