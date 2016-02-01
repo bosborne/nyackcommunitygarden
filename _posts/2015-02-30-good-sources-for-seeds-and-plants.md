@@ -14,7 +14,7 @@ This organization has been in existence for some 35 years, they're dedicated to 
 
 [http://www.johnnyseeds.com/](http://www.johnnyseeds.com/)
 
-Seeds, plants, and many tools too, from Maine. You can get [BioTelo biodegradable mulch here](http://www.johnnyseeds.com/p-6978-biotelo-biodegradable-mulch-4-5-x-32.aspx). Excellent source of information about growing in the North East, both varieties and practices. Definitely check this out if you want to order online.
+Seeds, plants, and many tools too, from Maine. You can get [Bio360 Biodegradable Mulch](http://www.johnnyseeds.com/p-6978-bio360-biodegradable-mulch-45-x-32.aspx) here. Excellent source of information about growing in the North East, both varieties and practices. Definitely check this out if you want to order online.
 
 ### Kitchen Garden Seeds
 
