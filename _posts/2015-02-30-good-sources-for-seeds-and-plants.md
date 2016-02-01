@@ -34,5 +34,5 @@ They also have tomatilloes and eggplants. In New Jersey.
 
 [http://www.seedlibrary.org](http://www.seedlibrary.org/)
 
-From our own valley, a source for heirloom and open-pollinated garden seeds that should do well in our garden.
+From our own valley, a source for heirloom and open-pollinated garden seeds that should do well in our garden. They also have a very good [blog](http://www.seedlibrary.org/blog/).
 
