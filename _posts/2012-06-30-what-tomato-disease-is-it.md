@@ -30,4 +30,7 @@ Here's some common-sense advice:
 -   Remove any leaf that has the characteristic gray or brown spots
 -   Take any and all infected tissue out of the garden
 
+A useful Web site is the [Vegetable MD Online](http://vegetablemdonline.ppath.cornell.edu/DiagnosticKeys/TomLeaf/TomLeafKey.html), from Cornell.
+
+
 *Brian O*
