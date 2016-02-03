@@ -1,5 +1,5 @@
 name: Nyack Community Garden
-markdown: redcarpet
+markdown: kramdown
 url: http://bosborne.github.io
 description: Web site for the Nyack Community Garden in Nyack NY USA
 port: 
