@@ -128,6 +128,10 @@ body.blog .header {
    background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left top;
    background-size: 120%;
 }
+body.files .header {
+   background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left top;
+   background-size: 90%;
+}
 
 .footer {
 	/* bottom bar */
@@ -212,6 +216,7 @@ body.garden-dates li.garden-dates a,
 body.garden-rules li.garden-rules a,
 body.info li.info a,
 body.blog li.blog a,
+body.files li.files a,
 body.contact li.contact a {
 	background: #e46b6d;
 	color: #fff;
@@ -295,6 +300,9 @@ textarea {
   	body.blog .header {
     	background-size: 100%;
     }
+  	body.files .header {
+    	background-size: 100%;
+    }
 
 	.header h1 {
 		font-size: 4em;
@@ -341,6 +349,10 @@ textarea {
 	body.blog .header {
     	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left 15%;
     	background-size: 100%;
+	}
+	body.files .header {
+    	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left 15%;
+    	background-size: 80%;
 	}
 
 	.header h1 {
