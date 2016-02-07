@@ -7,6 +7,7 @@ pageclass: garden-rules
 ## Garden Rules
   
 1. Garden membership is at the discretion of the Nyack Community Garden’s Executive Committee.
+
 2. Every gardener must attend the General Meeting.
 3. One half plot or full plot is allowed per household.
 4. All garden plots must be fully planted by May 30, 2016.  On June 1, 2016, unattended garden plots will be re-assigned to persons on the waiting list.
