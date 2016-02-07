@@ -128,9 +128,10 @@ body.blog .header {
    background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left top;
    background-size: 120%;
 }
-body.files .header {
-   background: url(/ncg/images/fresh-fruit-vegetable-background-45753955) no-repeat left top;
-   background-size: 200%;
+body.files .header{
+	/* image, main page */
+ 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
+ 	background-size: 50%;
 }
 
 .footer {
@@ -351,8 +352,8 @@ textarea {
     	background-size: 100%;
 	}
 	body.files .header {
-    	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left 15%;
-    	background-size: 80%;
+    	background: url(/ncg/images/fresh-fruit-vegetable-background-45753955.jpg) no-repeat left 15%;
+    	background-size: 180%;
 	}
 
 	.header h1 {
