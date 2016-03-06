@@ -1,9 +1,12 @@
 ---
 layout: post
 pageclass: blog
-title: "Joan Gussow at the Nyack Library"
+title: "Past Newsletters"
 published: true
 ---
-The Nyack Library will host the *Seed Starting Slam with Special Guest Joan Gussow* on Saturday March 12 from 2:30 to 4:30:
+Each year a garden committee creates a newsletter. Here are newsletters from past years:
 
-http://nyacklibrary.evanced.info/signup/EventDetails.aspx?EventId=15973&lib=#
+- [Newsletter September 2011](/pdf/Newsletter_September_2011.pdf)
+- [Newsletter August 2012](/pdf/Newsletter_August_2012.pdf)
+- [Newsletter August 2013](/pdf/Newsletter_August_2013.pdf)
+- [Newsletter October 2014](/pdf/Newsletter_October_2014.pdf)
