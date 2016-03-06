@@ -1,9 +1,9 @@
 ---
 layout: post
 pageclass: blog
-title: "Nyack Seed Exchange at the Nyack Library"
+title: "Joan Gussow at the Nyack Library"
 published: true
 ---
-The Nyack Library will host the *Nyack Seed Exchange* each Saturday from 10 AM to 2 PM:
+The Nyack Library will host the *Seed Starting Slam with Special Guest Joan Gussow* on Saturday March 12 from 2:30 to 4:30:
 
-http://www.nyacklibrary.org/nyack-seed-exchange.html
+http://nyacklibrary.evanced.info/signup/EventDetails.aspx?EventId=15973&lib=#
