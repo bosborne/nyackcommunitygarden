@@ -4,6 +4,9 @@ pageclass: files
 title: "Garden Downloads"
 published: true
 ---
+[Plot and Cluster List for 2016](/pdf/Plots & Clusters 3-31-16.pdf)
+
+
 Each year a garden committee creates a newsletter. Here are newsletters from past years:
 
 - [Newsletter 2015](/pdf/Newsletter_2015.pdf)
