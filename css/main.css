@@ -109,28 +109,28 @@ body.home .header{
  	background-size: 50%;
 }
 body.garden-dates .header {
-   background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center center;
+   background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center center;
    background-size: 180%;
 }
 body.garden-rules .header {
-   background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left center;
+   background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat left center;
    background-size: 140%;
 }
 body.contact .header {
- 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat right center;
+ 	background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat right center;
  	background-size: 215%;
 }
 body.info .header {
- 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center;
+ 	background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) no-repeat center;
  	background-size: 120%;
 }
 body.blog .header {
-   background: url(/ncg/images/vegetable-garden-bed-23196857.jpg) no-repeat left top;
+   background: url(/images/vegetable-garden-bed-23196857.jpg) no-repeat left top;
    background-size: 120%;
 }
 body.files .header{
 	/* image, main page */
- 	background: url(/ncg/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
+ 	background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
  	background-size: 50%;
 }
 
