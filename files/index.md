@@ -6,8 +6,7 @@ published: true
 ---
 [Plot and Cluster List for 2016](/pdf/Plots & Clusters 3-31-16.pdf)
 
-
-Each year a garden committee creates newsletters. Here are newsletters from past years:
+Our garden's newsletters:
 
 - [Newsletter November 2016](/pdf/Newsletter_November_2016.pdf)
 - [Newsletter May 2016](/pdf/Newsletter_May_2016.pdf)
