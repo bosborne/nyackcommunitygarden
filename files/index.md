@@ -6,7 +6,7 @@ published: true
 ---
 [Plot and Cluster List for 2016](/pdf/Plots & Clusters 3-31-16.pdf)
 
-Our garden's newsletters:
+Our Nyack Community Garden newsletters:
 
 - [Newsletter November 2016](/pdf/Newsletter_November_2016.pdf)
 - [Newsletter May 2016](/pdf/Newsletter_May_2016.pdf)
