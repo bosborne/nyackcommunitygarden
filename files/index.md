@@ -9,6 +9,7 @@ published: true
 
 Each year a garden committee creates newsletters. Here are newsletters from past years:
 
+- [Newsletter November 2016](/pdf/Newsletter_November_2016.pdf)
 - [Newsletter May 2016](/pdf/Newsletter_May_2016.pdf)
 - [Newsletter 2015](/pdf/Newsletter_2015.pdf)
 - [Newsletter October 2014](/pdf/Newsletter_October_2014.pdf)
