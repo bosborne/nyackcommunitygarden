@@ -1,7 +1,7 @@
 ---
 layout: post
 pageclass: blog
-title: "A Bench in the Garden"
+title: "Accepting applications for 2017"
 published: true
 ---
 Dear 2016 Gardener,
