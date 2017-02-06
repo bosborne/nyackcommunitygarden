@@ -42,7 +42,7 @@ pageclass: garden-rules
 
 18. At the end of the season all decorative ornaments, stones, mulch, woodchips, gravel, weed barriers, staples, stakes, and cages must be removed from the garden property. Do not put in the shed or adjacent to it. Upon request, the NCG president(s) may allow limited storage of cages.
 
-19. By garden closing date, Nov. 4, 2016, every gardener is responsible for restoring his/her plot to the condition it had on March 30, 2016.
+19. By garden closing date, Nov. 4, 2017, every gardener is responsible for restoring his/her plot to the condition it had on March 30, 2017.
 
 20. The Nyack Community Garden is not responsible at any time for your plants and other personal items.
 
