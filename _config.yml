@@ -7,4 +7,3 @@ destination: site
 exclude: ["CNAME", "README.md"]
 excerpt_separator: <!--more-->
 permalink: /blog/:title
-
