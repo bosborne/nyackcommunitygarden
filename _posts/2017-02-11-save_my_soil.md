@@ -20,8 +20,8 @@ Plenty of phosphorus, just like in Cornell results from a few years back. But lo
 
 And here was the second surprise:
 
-![Soil pH result](/images/pH_tube_0692.jpg)
-![Soil pH table](/images/pH_colors_0695.jpg)
+![Soil pH result](/images/pH_tube_0692.JPG)
+![Soil pH table](/images/pH_colors_0695.JPG)
 
 pH 8.0? Last time I checked we were at 7, i.e. neutral, and you want to be somewhere between 6 and 7 (a little acidity does not bother vegetables).
 
