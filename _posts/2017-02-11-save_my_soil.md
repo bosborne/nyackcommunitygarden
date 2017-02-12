@@ -12,7 +12,7 @@ I have to say, I was surprised, but not in a good way. But let's start with the 
 
 ![Soil phosphorus result](/images/phosphorus_0654.jpg)
 
-Plenty of phosphorus, just like in Cornell results from a few years back. But look at this:
+Plenty of phosphorus, just like in the Cornell results from a few years back. But look at this:
 
 ![Soil nitrogen result](/images/nitrogen_0653.jpg)
 
