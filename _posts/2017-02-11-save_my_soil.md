@@ -30,3 +30,5 @@ The potassium (K) test is not exactly colorimetric, it's more like a titration, 
 So how have I gotten myself into this situation? How come my neighbors seem to have more fertile soil than me, even when I routinely add organic fertilizers when I plant? Well, just not enough it seems. Unlike most of my neighbors, I start early, and stay late, so I've got a spring crop of lettuce filling my plot (plus arugula or radishes or cabbage or ...), then I start lettuce (plus ...) in mid-August, that grows until late October. Would you like to guess what vegetable takes the most out of your soil? That's right, the leafy vegetables like lettuce have the biggest appetite for N.
 
 Next up, in another post, we'll talk about fertilizer and how I'll try to fix all of this.
+
+Brian O.
