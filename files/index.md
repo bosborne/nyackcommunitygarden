@@ -4,10 +4,11 @@ pageclass: files
 title: "Garden Downloads"
 published: true
 ---
-[Plot and Cluster List for 2016](/pdf/Plots & Clusters 3-31-16.pdf)
+[Plot and Cluster List for 2017](/pdf/Plots & Clusters 3-29-17.pdf)
 
 Our Nyack Community Garden newsletters:
 
+- [Newsletter March-April 2017](/pdf/Newsletter_March-April_2017.pdf)
 - [Newsletter November 2016](/pdf/Newsletter_November_2016.pdf)
 - [Newsletter July 2016](/pdf/Newsletter_July_2016.pdf)
 - [Newsletter May 2016](/pdf/Newsletter_May_2016.pdf)
