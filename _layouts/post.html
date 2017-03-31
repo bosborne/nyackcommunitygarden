@@ -2,7 +2,7 @@
 <html>
   {% include header.html %}
   <body class="blog">
-  	 <div class="leader">
+    <div class="leader">
       <div class="container">
         <ul class="contacts">
           <li><i class="fa fa-envelope"></i>&nbsp;<a href="mailto:nyackcommunitygarden@gmail.com">nyackcommunitygarden@gmail.com</a></li>
@@ -11,29 +11,28 @@
     </div>
     <div class="header">
       <div class="container">
-      	<h2 class="title"><a href="/" title="Home page">Nyack Commmunity Garden</a></h2>
-    	</div>
-    	{% include navigation.html %}
+        <h2 class="title"><a href="/" title="Home page">Nyack Commmunity Garden</a></h2>
+      </div>
+      {% include navigation.html %}
     </div>
     <div class="content">
-    	<div class="container">
+      <div class="container">
         <h1>{{ page.title }}</h1>
         {% if content contains '<!--more-->' %}
-          {{ content | split:'<!--more-->' | first }}
-        {% else %}
-          {{ content }}
-        {% endif %}
-        {% if page.youtubecode %}
+        {{ content | split:'<!--more-->' | first }}
+      {% else %}
+        {{ content }}
+      {% endif %}
+      {% if page.youtubecode %}
         <div class='embed-container'>
           <iframe src='http://www.youtube.com/embed/{{ page.youtubecode }}' frameborder='0' allowfullscreen></iframe>
         </div>
-        {% endif %}
-    	</div>
+      {% endif %}
     </div>
-    <div class="footer">
-			{% include navigation.html %}
-      {% include footer.html %}
     </div>
+      <div class="footer">
+        {% include navigation.html %}
+        {% include footer.html %}
+      </div>
   </body>
 </html>
-
