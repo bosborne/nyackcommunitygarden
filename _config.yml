@@ -7,3 +7,4 @@ destination: _site
 exclude: ["CNAME", "README.md"]
 excerpt_separator: <!--more-->
 permalink: /blog/:title
+google_analytics: UA-23491219-1
