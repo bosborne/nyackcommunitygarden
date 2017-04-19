@@ -4,7 +4,7 @@ url: http://bosborne.github.io
 description: Web site for the Nyack Community Garden in Nyack NY USA
 port:
 destination: _site
-exclude: ["CNAME", "README.md"]
+exclude: ["CNAME", "README.md", ".gitignore"]
 excerpt_separator: <!--more-->
 permalink: /blog/:title
 google_analytics: UA-96599061-1
