@@ -1,20 +1,36 @@
 ---
 layout: post
 pageclass: blog
-title: "2017 Plot List and Newsletter"
+title: "2017 Garden Contest Winners"
 published: true
 ---
 
-Gardeners,
+*Best Overall Garden*
 
-Here is the plot and cluster list for 2017:
+Plot 36  Jayne Stuecklen
 
-[Plots & Clusters 2017](/pdf/Plots & Clusters 3-29-17.pdf)
+*Best Maintained Garden*
 
-And here is our spring newsletter, with very useful information on mulch:
+1st – Plot 3  Barbara Berasi-Rosen
+2nd    Plot 48A  Ellen Miret
+3rd – Plot 30  Dorothy Durkin
 
-[Newsletter March-April 2017](/pdf/Newsletter_March-April_2017.pdf)
+*Best Vegetable/or Flower Garden*
 
-Finally, we have written an article with advice for new gardeners, check this out:
+1st – Plot 32  Lauren Pakaln
+2nd – Plot 42  Lynda Grant
+3rd -   Plot 14  Pauline Heckstall
 
-[For the New Gardeners](/pdf/For the New Gardeners 2017.pdf)
+*Most Creative Garden*
+
+1st – Plot 24  Mari Natal
+2nd – Plot 37  Jill Remaly
+3rd – Plot 21  Umberto Fava & Erica de Waal
+
+*Best Cluster*
+
+Cluster #4,  Plots 26-33B,  Laura Pakaln, cluster leader, Kimberly Knight, Wilsie Reese, Garden Club of the Nyacks (Elizabeth Turk, Carol Marsh, Sharon Guadagno & Elizabeth Gaeta), Robert Mauriello, Paul Bloch, Dorothy Durkin, Elizabeth Cherry, Mark Schneider, and Kristin Flood
+
+Congratulations to you all!  The judges had a very difficult time because every plot was great.
+
+Marie Dilluvio, Chairman of the Garden Contest Committee
