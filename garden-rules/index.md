@@ -39,7 +39,7 @@ climbing plants.
 13. After use, return tools to the shed in clean conditon. Gardeners must supply their own hand tools.
 
 14. Sunflowers, corn, tall plants, and non-permeable ground cover are not permited in plots and will
-be remoied.
+be removed.
 
 15. Bag all plant waste materials, except for diseased, in compost bags and take to the Depew Avenue
 curb.
