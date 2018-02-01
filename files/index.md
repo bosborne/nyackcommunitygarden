@@ -1,7 +1,7 @@
 ---
 layout: default
 pageclass: files
-title: "Garden Downloads"
+title: "Newsletters and Lists"
 published: true
 ---
 [Committee descriptions for 2018](/pdf/Committee_Descriptions_2018.pdf)
