@@ -33,7 +33,7 @@ Here's the important piece of advice though: try different varieties, and always
 
 ### Spinach
 
-* [Winter Bloomsdale](http://turtletreeseed.org/product/906-winter-bloomsdale/). Good texture, good growth.
+* [Winter Bloomsdale](http://turtletreeseed.org/product/906-winter-bloomsdale/). Good texture, good growth. Have to admit though, I have not tried many different spinach varieties.
 
 ### Turnip
 
