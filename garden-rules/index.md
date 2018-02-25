@@ -8,7 +8,7 @@ pageclass: garden-rules
 
 1. Garden membership is at the discretion of the Nyack Community Garden’s Executive Committee.
 
-2. Every gardener must attend the General Meetng.
+2. Every gardener must attend the General Meeting.
 
 3. One 1⁄2 plot or full plot is allowed per household.
 
@@ -18,7 +18,7 @@ assigned to persons on the waitng list.
 5. No gardener may transfer his or her plot to another person without permission of the NCG Executive
 Committee.
 
-6. Every gardener must partcipate in at least one Nyack Community Garden committee and
+6. Every gardener must participate in at least one Nyack Community Garden committee and
 contribute at least six hours between the garden’s opening and closing.
 
 7. Keep gates locked at all times.
