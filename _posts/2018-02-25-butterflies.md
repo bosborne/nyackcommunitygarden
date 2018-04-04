@@ -8,7 +8,7 @@ All,
 
 You may have noticed that Monarch butterflies pass through the garden in early to mid-October.
 
-They particularly love the Zinnia's and the Tithonia's, which is also known as the Mexican Sunflower.
+They particularly love the Zinnia's and the Tithonia's, which is also known as the [Mexican Sunflower](http://www.johnnyseeds.com/flowers/tithonia-mexican-sunflower/).
 
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/Xc0ml8Jw5u8" frameborder="0"> </iframe>
