@@ -50,7 +50,7 @@ curb.
 
 18. At the end of the season all decorative ornaments, stones, mulch, woodchips, gravel, weed
 barriers, staples, stakes, and cages must be removed from the garden property. Do not put in the
-shed or adjacent to it. Upon request, the NCG president(s) may allow limited storage oo cages.
+shed or adjacent to it. Upon request, the NCG president(s) may allow limited storage to cages.
 
 19. By garden closing date, Nov. 4 2018, every gardener is responsible for restoring his or her plot to the
 conditon it had on April 8, 2018.
