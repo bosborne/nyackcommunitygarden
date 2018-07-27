@@ -13,7 +13,7 @@ Best Maintained Garden:
 * 2nd Place - Ellen Miret #48A
 * 3rd Place - Winnie Muller & Henrik Peterson #19A
 
-Best Vegetableand/or Flower Garden
+Best Vegetable and/or Flower Garden
 * 1st Place -  Jill Remaly #37
 * 2nd Place  Renae Leeming  #48B
 * 3rd Place - Marie Carmel Grube #19B
