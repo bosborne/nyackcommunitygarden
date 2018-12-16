@@ -8,7 +8,7 @@ All,
 
 A few people have asked me for a listing of different vegetable varieties that I plant, so here we go. I'll keep it focused on spring-time vegetables, or vegetables that you plant in springtime for summer harvest. For some vegetables, like lettuce and beets, the listing comes from many years of trying different varieties. For some other vegetables it just happens that I stumbled on a variety that I liked, so I stick with that variety.
 
-Here's the important piece of advice though: try different varieties, and always keep some kind of notebook. Most people will not be able to remember all the different varieties they try over the years, so keep track of what you do in your notebook or spreadsheet (variety, time planted, any notes on how it did, and so on).
+Here's the important piece of advice though: try different varieties, and always keep some kind of notebook. Most people will not be able to remember all the different varieties they try over the years, so keep track of what you do and what you plant in your notebook or spreadsheet (variety, time planted, how you fertilized, any notes on how it did, and so on).
 
 ### Lettuce
 
@@ -45,7 +45,7 @@ Here's the important piece of advice though: try different varieties, and always
 
 ### Chard
 
-* [Silverado](http://hudsonvalleyseed.com/silverado-chard.html). Lovely green and white plant, good texture. Why are you growing kale?
+* [Silverado](http://hudsonvalleyseed.com/silverado-chard.html). Lovely green and white plant, good texture. Why are you growing kale? :smirk:
 
 
 Brian O.
