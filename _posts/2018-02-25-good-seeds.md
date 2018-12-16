@@ -45,7 +45,7 @@ Here's the important piece of advice though: try different varieties, and always
 
 ### Chard
 
-* [Silverado](http://hudsonvalleyseed.com/silverado-chard.html). Lovely green and white plant, good texture. Why are you growing kale? 	&#9786
+* [Silverado](http://hudsonvalleyseed.com/silverado-chard.html). Lovely green and white plant, good texture. Why are you growing kale?
 
 
 Brian O.
