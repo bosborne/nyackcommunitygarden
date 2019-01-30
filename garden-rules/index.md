@@ -21,7 +21,7 @@ Committee.
 6. Every gardener must participate in at least one Nyack Community Garden committee and
 contribute at least six hours between the garden’s opening and closing.
 
-7. Keep gates locked at all times.
+7. Gates must be kept locked at all times.
 
 8. Children under the age of 18 are NOT permitted in the garden without an adult.
 
@@ -52,8 +52,8 @@ curb.
 barriers, staples, stakes, and cages must be removed from the garden property. Do not put in the
 shed or adjacent to it. Upon request, the NCG president(s) may allow limited storage to cages.
 
-19. By garden closing date, Nov. 4 2018, every gardener is responsible for restoring his or her plot to the
-conditon it had on April 8, 2018.
+19. By garden closing date, Nov. 3 2019, every gardener is responsible for restoring his or her plot to the
+conditon it had on April 7, 2019.
 
 20. The Nyack Community Garden is not responsible at any time for your plants and other personal
 items.
