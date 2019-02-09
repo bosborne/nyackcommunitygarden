@@ -12,7 +12,7 @@ Founded in the mid 1970's ([an article about our garden's history](/pdf/Newslett
 
 The garden is dvided into full plots and half plots, and plot availability for new gardeners is limited, because returning gardeners have priority over new gardeners. Gardeners must reside in the Nyack School District. New gardeners are eligible for ½ plots which are approximately 90 square feet and cost $25, subject to availability. A full plot is 180 square feet, costs $35 for a season, and is available to gardeners who were in the garden the previous year and maintained their plots. New gardeners get placed on a waiting list when they apply, and their position on the waiting list is determined by postmark date of their application. Each year a few gardeners will not return to the garden, so a few spots open up each season for new gardeners.
 
-All gardeners must obey the [rules](/garden-rules/index.md), assist with the running and care of the garden, and serve on a [garden committee](/pdf/Committee_Descriptions_2019.pdf) by providing at least 6 hours of work for that committee.
+All gardeners must obey the [rules](/garden-rules/), assist with the running and care of the garden, and serve on a [garden committee](/pdf/Committee_Descriptions_2019.pdf) by providing at least 6 hours of work for that committee.
 
 At the Nyack Community Garden each plot is a unique environment displaying the diversity of the NCG membership. Visitors to Nyack enjoy strolling by the garden experiencing its diverse colors and fragrances, viewing its horticultural variety, and chatting with industrious gardeners.
 
