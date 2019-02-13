@@ -56,6 +56,7 @@ If you have memories or facts about our garden that you want to share, please se
 
 Robin Brown
 
+*This article is taken from the [Newsletter October-November 2018](/pdf/Newsletter_Oct_Nov_2018.pdf)*
 
 
 
