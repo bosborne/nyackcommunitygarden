@@ -1,7 +1,7 @@
 ---
 layout: post
 pageclass: blog
-title: "History of the Garden"
+title: "History of the Property"
 published: true
 ---
 
