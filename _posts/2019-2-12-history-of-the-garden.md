@@ -10,7 +10,7 @@ published: true
 
 <img src="/images/Gillman & Son c 1979 IMG_1938.jpeg" alt="Barbara Gilman and son in garden" width="600"/>
 
-*Founder Barbara Gilman and her son in the Garden. Newspaper clipping from Journal News, Collection of Nyack Public Library*
+*Founder Barbara Gilman and her son in the Garden. Newspaper clipping from Journal News, Collection of Nyack Public Library.*
 
 The Nyack Community Garden is very much a part of the national community garden movement in the 1970’s described in our July-August 2018 newsletter. Around 1974-75 the land along Franklin Street between Depew and Hudson was vacant and considered undevelopable. Local people lead by Barbara Gilman and including Dan Rogers and Farrell Freeman, who worked on the effort as part of his Cooperative Extension Master Gardener volunteer commitment, pushed for a community garden on the site.
 
