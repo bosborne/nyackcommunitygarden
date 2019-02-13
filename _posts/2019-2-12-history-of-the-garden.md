@@ -30,7 +30,7 @@ Plots at the time were 10’ x 10’ and the fee $3. Groups involved with the ga
 In the early years the garden was enclosed by a snow fence. In 1983, in 1994 and again in 2000, the gardening community successfully advocated that the property not be developed for other uses. In 1985, the garden had its own “Grow Your Own” logo. In the mid-1980s, the garden contest began. Early categories included largest vegetables and most variety of vegetables in addition to most categories that we have today. Some years the contest was not held.
 
 
-<img src="(/images/undated from NPL 11.01.29.jpeg" alt="Early photo of the garden around 1980, in the snow" width="600"/>
+<img src="/images/undated from NPL 11.01.29.jpeg" alt="Early photo of the garden around 1980, in the snow" width="600"/>
 
 *Early photograph of Garden when surrounded by snow fence. Probably taken around 1980. Collection of Nyack Public Library.*
 
