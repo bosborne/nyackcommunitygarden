@@ -8,7 +8,7 @@ published: true
 ## The Nyack Community Garden’s History
 
 
-<img src="/images/Gillman & Son c 1979 IMG_1938.jpeg" alt="Barbara Gilman and son in garden" width="200"/>
+<img src="/images/Gillman & Son c 1979 IMG_1938.jpeg" alt="Barbara Gilman and son in garden" width="500"/>
 
 *Founder Barbara Gilman and her son in the Garden. Newspaper clipping from Journal News, Collection of Nyack Public Library*
 
