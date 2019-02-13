@@ -25,7 +25,7 @@ Does she have any tips for new gardeners? “When you grow some of it yourself, 
 
 Kathy Schwarz
 
-
+*This article is taken from the [Newsletter October-November 2018](/pdf/Newsletter_Oct_Nov_2018.pdf)*
 
 
 

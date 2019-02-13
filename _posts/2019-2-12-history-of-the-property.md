@@ -27,6 +27,7 @@ For those of us who want to know more about this railroad history, the time is n
 
 Robin Brown
 
+*This article is taken from the [Newsletter October-November 2018](/pdf/Newsletter_Oct_Nov_2018.pdf)*
 
 
 
