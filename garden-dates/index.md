@@ -2,6 +2,7 @@
 layout: default
 title: Garden Dates
 pageclass: garden-dates
+published: true
 ---
 
 ## Garden Dates
