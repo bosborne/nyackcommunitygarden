@@ -28,7 +28,7 @@ contribute at least six hours between the garden’s opening and closing.
 9. Stay out of other gardeners’ plots unless specifically invited.
 
 10. Maintenance of assigned garden plot is a requirement throughout the entire season. If you are
-unable to maintain your plot, please contact your cluster leader as soon as possible.
+unable to maintain your plot, please [email the garden](mailto:nyackcommunitygarden@gmail.com).
 
 11. Every gardener is responsible for keeping his or her plot and the path in front of his or her plot weed
 free.
