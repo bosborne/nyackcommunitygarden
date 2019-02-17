@@ -16,8 +16,7 @@ charities and enhances the beauty of the community.
 The Nyack Community Garden on [South Franklin Street between Depew and
 Hudson
 Avenues](http://www.openstreetmap.org/?minlon=-73.9218139648438&minlat=41.0889358520508&maxlon=-73.9215545654297&maxlat=41.0897102355957)
-in Nyack is a place for community residents to garden together – to work
-individually and collaboratively. The garden’s members plant vegetables,
+in Nyack is a place for community residents to garden together. The garden’s members plant vegetables,
 fruits, and flowers in their individual plots and help maintain the
 whole garden including surrounding flower beds. They produce nutritious
 food and beautiful flowers for their own use. Many donate to local soup
