@@ -4,7 +4,7 @@ pageclass: files
 title: "Newsletters and Lists"
 published: true
 ---
-<!-- - [Plots and Clusters for 2018](/pdf/Plots_&_Clusters_6-13-18.pdf) -->
+<!-- - [Plots for 2018](/pdf/Plots_&_Clusters_6-13-18.pdf) -->
 - [Committee descriptions for 2019](/pdf/Committee_Descriptions_2019.pdf)
 
 Our Nyack Community Garden newsletters:
