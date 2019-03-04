@@ -18,7 +18,7 @@ waiting list.
 ***March 21 at 7:00 PM*** is the General Garden Meeting.
 
 It's at the Nyack Senior Center, 90 Depew Avenue. Attendance is
-required\!
+required!
 
 ***April 6 8:00 AM*** is when the Garden gets staked.
 
@@ -47,7 +47,7 @@ waiting list.
 
 ***TBD*** is the day of the Garden Contest.
 
-Winners receive ribbons\!
+Winners receive ribbons!
 
 ***October 17*** is the Potluck Dinner.
 
