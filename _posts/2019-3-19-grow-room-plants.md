@@ -11,26 +11,26 @@ I know that Nyack gardeners like to buy plants locally, and I've learned that Li
 
 ### Tomatoes
 
-Green Giant
-Sun Gold
-Purple Cherokee
-Amish  Paste
-Brandywine
-Gold Medal
-Solar Flare
-Rutgers
-Fourth of July
-Sweetie
-Green Zebra
+* Green Giant
+* Sun Gold
+* Purple Cherokee
+* Amish  Paste
+* Brandywine
+* Gold Medal
+* Solar Flare
+* Rutgers
+* Fourth of July
+* Sweetie
+* Green Zebra
 
 ### Peppers
 
-Shishito
-Jimmy Nardello
-Fish Peppers
-Trottolino Amoroso
-Garden Sunshine
-Lemon Spice Jalapeno
+* Shishito
+* Jimmy Nardello
+* Fish Peppers
+* Trottolino Amoroso
+* Garden Sunshine
+* Lemon Spice Jalapeno
 
 Many of these varieties do very well in our garden, just thought you would like to know. You can call [The Grow Room](http://www.thegrowroom.com/) at (845) 348-8811.
 
