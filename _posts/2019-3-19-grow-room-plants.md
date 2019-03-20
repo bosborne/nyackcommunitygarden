@@ -17,7 +17,7 @@ Sun Gold
 
 Purple Cherokee
 
-Amish  Paste
+Amish Paste
 
 Brandywine
 
