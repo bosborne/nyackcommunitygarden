@@ -5,7 +5,8 @@ title: "Newsletters and Lists"
 published: true
 ---
 - [Plots for 2019](/pdf/Plots_3-21-2019.pdf)
-- [Committee descriptions for 2019](/pdf/Committee_Descriptions_2019.pdf)
+- [Committee Descriptions for 2019](/pdf/Committee_Descriptions_2019.pdf)
+- [Committee List for 2019](/pdf/Committee_List_2019.pdf)
 
 Our Nyack Community Garden newsletters:
 
