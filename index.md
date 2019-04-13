@@ -26,6 +26,10 @@ The vital support of the [Robert Martin
 Company](http://robertmartincompany.com), in concert with the Community
 Housing Management Corporation, is greatly appreciated.
 
+<img src="/images/undated from NPL 11.01.29.jpeg" alt="Early photo of the garden around 1980, in the snow" width="600"/>
+
+*Early photograph of Garden when surrounded by snow fence. Probably taken around 1980. Collection of Nyack Public Library.*
+
 For information on how to become a member of the Nyack Community Garden
 please [email nyackcommunitygarden@gmail.com](mailto:nyackcommunitygarden@gmail.com>
 ).
