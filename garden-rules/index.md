@@ -12,8 +12,7 @@ pageclass: garden-rules
 
 3. One 1⁄2 plot or full plot is allowed per household.
 
-4. All garden plots must be fully planted by May 31, 2019. Unattended garden plots will be re-
-assigned to persons on the waitng list.
+4. All garden plots must be fully planted by May 31, 2019. Unattended garden plots will be re-assigned to persons on the waitng list.
 
 5. No gardener may transfer his or her plot to another person without permission of the NCG Executive
 Committee.
@@ -38,7 +37,7 @@ climbing plants.
 
 13. After use, return tools to the shed in clean conditon. Gardeners must supply their own hand tools.
 
-14. Sunflowers, corn, tall plants, and non-permeable ground cover are not permited in plots and will
+14. Sunflowers, corn, tall plants, and non-permeable ground cover are not permitted in plots and will
 be removed.
 
 15. Bag all plant waste materials, except for diseased, in compost bags and take to the Depew Avenue
@@ -53,7 +52,7 @@ barriers, staples, stakes, and cages must be removed from the garden property. D
 shed or adjacent to it. Upon request, the NCG president(s) may allow limited storage to cages.
 
 19. By garden closing date, Nov. 3 2019, every gardener is responsible for restoring his or her plot to the
-conditon it had on April 7, 2019.
+conditon it had on April 7 2019.
 
 20. The Nyack Community Garden is not responsible at any time for your plants and other personal
 items.
