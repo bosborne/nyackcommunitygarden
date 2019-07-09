@@ -45,7 +45,7 @@ with such a high demand.
 ***After May 31*** Unplanted plots will be assigned to persons on
 waiting list.
 
-***TBD*** is the day of the Garden Contest.
+***July 24*** is the day of the Garden Contest.
 
 Winners receive ribbons!
 
