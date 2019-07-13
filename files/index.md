@@ -10,6 +10,7 @@ published: true
 
 Our Nyack Community Garden newsletters:
 
+- [Newsletter July-August 2019](/pdf/Newsletter_July_August_2019.pdf)
 - [Newsletter October-November 2018](/pdf/Newsletter_Oct_Nov_2018.pdf)
 - [Newsletter July-August 2018](/pdf/Newsletter_July_August_2018.pdf)
 - [Newsletter September-October 2017](/pdf/Newsletter_Sept_Oct_2017.pdf)
