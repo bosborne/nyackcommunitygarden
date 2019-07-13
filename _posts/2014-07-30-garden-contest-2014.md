@@ -14,7 +14,7 @@ published: true
 
 1.  Plot 9A, Jayne Stuecklen
 2.  Plot 42, Lynda Grant
-3.  Plot 34A, Mari Natal
+3.  Plot 34A, Mari *
 
 *Best Maintained*
 

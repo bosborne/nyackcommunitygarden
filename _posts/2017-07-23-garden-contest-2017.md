@@ -26,7 +26,7 @@ Plot 36 Jayne Stuecklen
 
 *Most Creative Garden*
 
-- 1st – Plot 24  Mari Natal
+- 1st – Plot 24  Mari *
 - 2nd – Plot 37  Jill Remaly
 - 3rd – Plot 21  Umberto Fava & Erica de Waal
 

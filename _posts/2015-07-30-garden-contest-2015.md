@@ -8,7 +8,7 @@ The winners of today's annual contest at the Nyack Community Garden are as follo
 
 *Most Creative*
 
--   1st place: Plot 24, Marie Natal
+-   1st place: Plot 24, Marie *
 -   2nd place: Plot 37/38, Jill Remaly, Colleen O'Connell & Shane Grady
 -   3rd place: Plot 19, Duncan Bell
 

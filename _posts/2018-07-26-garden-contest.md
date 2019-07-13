@@ -19,7 +19,7 @@ Best Vegetable and/or Flower Garden
 * 3rd Place - Marie Carmel Grube #19B
 
 Most Creative Garden
-* 1st Place - Marie Natal #24
+* 1st Place - Marie * #24
 * 2nd Place - Jayne Stuecklen #36
 * 3rd Place - Barbara Berasi-Rosen #3
 
