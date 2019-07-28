@@ -13,7 +13,7 @@ Best maintained:
 
     1st    Elvin & Yodit de la Cruz - 35
 
-    2nd    Linda watson - 44
+    2nd    Linda Watson - 44
 
     3rd    Pritsky/Caplan - 17
 
