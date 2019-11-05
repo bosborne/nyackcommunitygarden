@@ -33,13 +33,13 @@ Sweetie
 
 Green Zebra
 
-### *Peppers*
+<h2>Peppers</h2>
 
 Shishito
 
 Jimmy Nardello
 
-Fish Peppers
+Fish Pepper
 
 Trottolino Amoroso
 
