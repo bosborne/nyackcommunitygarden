@@ -25,7 +25,7 @@ Here's the important piece of advice though: try different varieties, and always
 
 <h2>Beet</h2>
 
-* [Merlin](http://www.johnnyseeds.com/vegetables/beets/round-beets/merlin-organic-f1-beet-seed-2758G.html). The problem with many heirloom beet varieties is the lack of uniformity. This one is a hybrid, not an heirloom, and it is uniform, tender, and medium sized. Perfect flavor.
+* [Merlin](http://www.johnnyseeds.com/vegetables/beets/round-beets/merlin-organic-f1-beet-seed-2758G.html). The problem with many heirloom beet varieties is the lack of uniformity. This one is a hybrid, not an heirloom, and it is uniform, tender, and medium sized. Excellent, earthy flavor.
 
 <h2>Onion</h2>
 
