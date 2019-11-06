@@ -10,7 +10,7 @@ A few people have asked me for a listing of different vegetable varieties that I
 
 Here's the important piece of advice though: try different varieties, and always keep some kind of notebook. Most people will not be able to remember all the different varieties they try over the years, so keep track of what you do and what you plant in your notebook or spreadsheet (variety, time planted, how you fertilized, any notes on how it did, and so on).
 
-### Lettuce
+<h2>Lettuce</h2>
 
 * [Skyphos](http://www.johnnyseeds.com/vegetables/lettuce/butterhead-lettuce-boston/skyphos-lettuce-seed-23.html). Dramatic dark red, vigorous.
 * [Nancy](http://www.johnnyseeds.com/vegetables/lettuce/butterhead-lettuce-boston/nancy-organic-lettuce-seed-438G.html). Boston-type butterhead, pure green.
@@ -21,29 +21,29 @@ Here's the important piece of advice though: try different varieties, and always
 * [Reine des Glaces](https://www.seedsavers.org/reine-des-glaces-lettuce). Crispy, pure green.
 * [Grandma Hadley’s](https://www.seedsavers.org/grandma-hadleys-organic-lettuce). Red and green, looser head.
 * [Red Velvet](https://www.seedsavers.org/red-velvet-organic-lettuce). Looseleaf, very vigorous, dark red.
-* [May Queen](http://turtletreeseed.org/product/208-may-queen/). Green butterhead.
+* [May Queen](http://turtletreeseed.org/product/208-may-queen/). Light green butterhead. Perfect.
 
-### Beet
+<h2>Beet</h2>
 
 * [Merlin](http://www.johnnyseeds.com/vegetables/beets/round-beets/merlin-organic-f1-beet-seed-2758G.html). The problem with many heirloom beet varieties is the lack of uniformity. This one is a hybrid, not an heirloom, and it is uniform, tender, and medium sized. Perfect flavor.
 
-### Onion
+<h2>Onion</h2>
 
 * [Walla Walla Sweet](http://www.johnnyseeds.com/vegetables/onions/onion-plants/walla-walla-onion-plants-500.html). Big mild onions. Do not forget to fertilize!
 
-### Spinach
+<h2>Spinach</h2>
 
 * [Winter Bloomsdale](http://turtletreeseed.org/product/906-winter-bloomsdale/). Good texture, good growth. Have to admit though, I have not tried many different spinach varieties.
 
-### Turnip
+<h2>Turnip</h2>
 
 * [Hakurei](http://www.johnnyseeds.com/vegetables/turnips/hakurei-f1-turnip-seed-706.html). Called a turnip, but eaten like a radish, raw. Pure white, delicate flavor.
 
-### Arugula
+<h2>Arugula</h2>
 
 * [Apollo](https://www.seedsavers.org/apollo-arugula). The largest-leafed and least bitter of all the arugula varieties I've tried.
 
-### Chard
+<h2>Chard</h2>
 
 * [Silverado](http://hudsonvalleyseed.com/silverado-chard.html). Lovely green and white plant, good texture. Why are you growing kale?
 
