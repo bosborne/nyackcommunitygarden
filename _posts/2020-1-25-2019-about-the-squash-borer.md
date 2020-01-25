@@ -31,7 +31,7 @@ Some gardeners will say "But I grew summer squash last year!" That's right! A ha
 every year, sometimes very weakened, but sometimes doing pretty well. But if you observe our garden
 every year over the years like we've been doing you'd conclude that somewhere around 3 out of 4 plants are killed each year,
 and the larvae leave the dead plant, burrow down, pupate, and wait in the soil for the warm weather of the following year,
-when they emerge as adults to mate and lay eggs on the plant stems.
+when they emerge as adults to mate and lay eggs on the plant stems, year after year.
 
 Back to the treatment methods, and the real world of our garden. Pesticides are out, many gardeners in
 our garden would absolutely refuse to use them. Plus this would involve spraying all plants in 
