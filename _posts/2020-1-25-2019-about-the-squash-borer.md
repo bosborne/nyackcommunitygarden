@@ -7,7 +7,7 @@ published: true
 
 Dear Gardeners,
 
-There's a [new rule](/garden-rules/index.md) this year which says:
+There's a [new rule](/garden-rules/) this year which says:
 
 <b>All types of squash, zucchini, watermelon, pumpkin and cucumber are NOT permitted to be planted 
 in plots due to an invasive pest that spreads from plant to plant.</b>
