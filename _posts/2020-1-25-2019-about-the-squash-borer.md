@@ -19,7 +19,7 @@ Check out the life cycle details, and the various methods to protect plants from
 
 OK, but what about the squash borer in our garden? Strange but true, but there are gardeners
 who are not aware that the squash borer is well-established in our garden, and it's been here
-for as long as I've been gardening here (that's about 20 years). Every year I've observed our plants,
+for as long as our veteran gardeners have been here. Every year we've observed our plants,
 waiting for those weeks in late July when the borer damage appears, and the plants collapse and die,
 usually very quickly, sometimes overnight. In 2019, for example, I planted 2 different varieties
 of summer squash 
@@ -29,7 +29,7 @@ were killed by the end of July.
 
 Some gardeners will say "But I grew summer squash last year!" That's right! A handful of plants survive
 every year, sometimes very weakened, but sometimes doing pretty well. But if you observe our plants
-every year like I've been doing you'd conclude that somewhere around 3 out of 4 plants are killed each year,
+every year like we've been doing you'd conclude that somewhere around 3 out of 4 plants are killed each year,
 and the larvae leave the dead plant, burrow down, pupate, and wait in the soil for the warm weather of the following year,
 when they emerge as adults to mate and lay eggs on the plant stems.
 
