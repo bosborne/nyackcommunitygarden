@@ -28,8 +28,8 @@ and 1 [Black Beauty](https://www.seedsavers.org/black-beauty-zucchini-organic-sq
 were killed by the end of July.
 
 Some gardeners will say "But I grew summer squash last year!" That's right! A handful of plants survive
-every year, sometimes very weakened, but sometimes doing pretty well. But if you observe our plants
-every year like we've been doing you'd conclude that somewhere around 3 out of 4 plants are killed each year,
+every year, sometimes very weakened, but sometimes doing pretty well. But if you observe our garden
+every year over the years like we've been doing you'd conclude that somewhere around 3 out of 4 plants are killed each year,
 and the larvae leave the dead plant, burrow down, pupate, and wait in the soil for the warm weather of the following year,
 when they emerge as adults to mate and lay eggs on the plant stems.
 
