@@ -18,7 +18,7 @@ assigned to persons on the waiting list.
 5. No gardener may transfer his/her plot to another person without permission of the NCG Executive
 Committee.
 
-6. NEW FOR 2020 SEASON: All types of squash, zucchini, watermelon, pumpkin and cucumber are NOT permitted to be planted in plots due to an invasive pest that spreads from plant to plant.
+6. *NEW FOR 2020 SEASON: All types of squash, zucchini, watermelon, pumpkin and cucumber are NOT permitted to be planted in plots due to an invasive pest that spreads from plant to plant.*
 
 7. Every gardener must participate in at least one Nyack Community Garden committee, contribute at least six hours between the Garden’s opening and closing dates, and attend one work weekend.
 
