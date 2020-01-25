@@ -7,22 +7,24 @@ published: true
 
 ## Garden Dates
 
-***February 23*** is the application deadline.
+***February 22*** is the application deadline.
 
 New gardeners are encouraged to mail in completed applications as soon
 as possible as priority on the waiting list for plots is determined by
 the dates of postmarks on the completed applications. After the February
-23 deadline, potential new members can send in applications to join the
+22 deadline, potential new members can send in applications to join the
 waiting list.
 
-***March 21 at 7:00 PM*** is the General Garden Meeting.
+***March 26 at 7:00 PM*** is the General Garden Meeting.
 
 It's at the Nyack Senior Center, 90 Depew Avenue. Attendance is
 required!
 
-***April 6 8:00 AM*** is when the Garden gets staked.
+***April 4*** is when the Garden gets staked.
 
-***April 7*** is the day the Garden opens.
+Starting at 8 AM.
+
+***April 5*** is the day the Garden opens.
 
 Many vegetables do well in the spring, and you will get good germination
 because of the moister soil. You can plant transplants or sow seed for
@@ -45,18 +47,28 @@ with such a high demand.
 ***After May 31*** Unplanted plots will be assigned to persons on
 waiting list.
 
-***July 24*** is the day of the Garden Contest.
+***TBD*** is the day of the Garden Contest.
 
 Winners receive ribbons!
 
-***October 17*** is the Potluck Dinner.
+***June 13, 14, 15*** is the Spring Work Weekend.
+
+Starting at 9 AM.
+
+***September 12, 13, 14*** is the Fall Work Weekend.
+
+Starting at 9 AM.
+
+***October 22*** is the Potluck Dinner.
 
 It's at 6:30, at the Nyack Center, 58 Depew Avenue, corner of S.
 Broadway
 
-***November 3*** is the day the Garden will close.
+***November 8*** is the day the Garden will close.
 
 All items most be removed and plots restored to state they had on April
-7.
+5.
 
-***November 9 8:00 AM*** is the Garden cleanup day.
+***November 14 8:00 AM*** is Winter prep and clean-up.
+
+Starting at 8 AM.
