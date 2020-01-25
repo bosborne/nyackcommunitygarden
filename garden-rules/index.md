@@ -59,9 +59,8 @@ condition it had on April 4, 2020.
 21. The Nyack Community Garden is not responsible at any time for your plants and other personal
 items.
 
-*Failure to meet any of these responsibilities
-at any time during the gardening season
-may result in the loss of Garden membership or other penalties.*
+<b><i>Failure to meet any of these responsibilities at any time during the gardening season
+may result in the loss of Garden membership or other penalties.</i></b>
 
 
 
