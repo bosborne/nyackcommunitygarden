@@ -44,8 +44,9 @@ be given to someone on the waiting list. In the past some gardeners have
 put very little effort into their plots but this is no longer acceptable
 with such a high demand.
 
-***After May 31*** Unplanted plots will be assigned to persons on
-waiting list.
+***After May 31*** 
+
+Unplanted plots will be assigned to persons on the waiting list.
 
 ***TBD*** is the day of the Garden Contest.
 
@@ -69,6 +70,6 @@ Broadway
 All items most be removed and plots restored to state they had on April
 5.
 
-***November 14 8:00 AM*** is Winter prep and clean-up.
+***November 14*** is Winter prep and clean-up.
 
 Starting at 8 AM.
