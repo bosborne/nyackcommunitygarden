@@ -19,7 +19,7 @@ Check out the life cycle details, and the various methods to protect plants from
 
 OK, but what about the squash borer in our garden? Strange but true, but there are gardeners
 who are not aware that the squash borer is well-established in our garden, and it's been here
-for as long as our veteran gardeners have been here. Every year we've observed our plants,
+for as long as many of our long-time gardeners have been here. Every year we've observed our plants,
 waiting for those weeks in late July when the borer damage appears, and the plants collapse and die,
 usually very quickly, sometimes overnight. In 2019, for example, I planted 2 different varieties
 of summer squash 
@@ -54,9 +54,9 @@ This method works, this is what an organic farmer would do. For example, they mi
 summer squash in one of them in alternate years.
 
 So what will happen in <b>our</b> garden this year because of this new rule is that the borer adults will emerge in 
-late spring, they will look for squash plants, they won't find any plants to lay eggs on, there will be no larva growing, and
+late spring, they will look for squash plants or other cucurbits, they won't find any plants to lay eggs on, there will be no larva growing, and
 no larva overwintering. Then next year, in 2021, there will be no squash borers in our garden,
-and <b>everyone</b> will be able to grow fantastic summer squash, for the first time in many years.
+and <b>everyone will be able to grow fantastic summer squash, for the first time in many years</b>.
 
 
 Brian O.
