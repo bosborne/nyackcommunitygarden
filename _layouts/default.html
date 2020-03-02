@@ -1,35 +1,37 @@
 <!DOCTYPE html>
 <html>
-  {% include header.html %}
-  <body class="{{ page.pageclass }}">
-    <div class="leader">
-      <div class="container">
-        <ul class="contacts">
-          <li><i class="fa fa-envelope"></i>&nbsp;<a href="mailto:nyackcommunitygarden@gmail.com">nyackcommunitygarden@gmail.com</a></li>
-        </ul>
+{% include header.html %}
+
+<body class="{{ page.pageclass }}">
+  <div class="leader">
+    <div class="container">
+      <ul class="contacts">
+        <li><i class="fa fa-envelope"></i>&nbsp;<a
+            href="mailto:nyackcommunitygarden@gmail.com">nyackcommunitygarden@gmail.com</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="header">
+    <div class="container">
+      <h2 class="title"><a href="/" title="Home page">Nyack Community Garden</a></h2>
+    </div>
+    {% include navigation.html %}
+  </div>
+  <div class="content">
+    <div class="container">
+      <div class="bannerbox">
+        <p>
+          <i><b>March 26 at 7:00 PM </b>is the General Garden Meeting>. It's at the Nyack Senior Center, 90 Depew
+            Avenue. Attendance is required!.</i>
+        </p>
       </div>
+      {{ content }}
     </div>
-    <div class="header">
-      <div class="container">
-        <h2 class="title"><a href="/" title="Home page">Nyack Community Garden</a></h2>
-      </div>
-      {% include navigation.html %}
-    </div>
-    <div class="content">
-      <div class="container">
-        <div class="bannerbox">
-          <p>
-            <i><b>March 26 at 7:00 PM is the General Garden Meeting>.</b> It's at the Nyack Senior Center, 90 Depew Avenue. Attendance is required!.</i>
-          </p>
-        </div>
-        {{ content }}
-      </div>
-    </div>
-    <div class="footer">
-      {% include navigation.html %}
-      {% include footer.html %}
-    </div>
-  </body>
+  </div>
+  <div class="footer">
+    {% include navigation.html %}
+    {% include footer.html %}
+  </div>
+</body>
+
 </html>
-
-
