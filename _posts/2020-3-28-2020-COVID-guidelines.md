@@ -29,4 +29,4 @@ Note: The water will not be turned on at this time. Now, the rules.
 [Plot assignments for 2020](/pdf/2020_NCG-Plot-Assignments.pdf)
 
 
-<img src="/images/2020_NCG-Plot-Assignments.png" alt="2020 NCG Plot Assignments" width="600"/>
+<img src="/images/2020_NCG-Plot-Assignments.png" alt="2020 NCG Plot Assignments" width="800"/>
