@@ -26,4 +26,7 @@ Note: The water will not be turned on at this time. Now, the rules.
 * We recognize that these rules are restrictive. But the safety of our garden community is our top concern. If you are not willing to abide by these rules, you are welcome to take this season off and return next year. Please let us know if this is the case.
 
 
+[Plot assignments for 2020](/pdf/2020_NCG-Plot-Assignments.pdf)
+
+
 <img src="/images/2020_NCG-Plot-Assignments.png" alt="2020 NCG Plot Assignments" width="600"/>
