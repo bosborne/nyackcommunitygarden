@@ -17,7 +17,8 @@ Note: The water will not be turned on at this time. Now, the rules.
 
 * If you or someone in your home does not feel well, do not come to the garden. Period. 
 * Bring your own disinfecting wipes and disinfect the gate, lock, and any other surface you come in contact with.
-* We are assigning days that you can and cannot come to the garden to enforce social distancing. Schedule is below: People whose name are highlighted may garden on odd days of the month only. Others may garden only on even days.
+* We are assigning days that you can and cannot come to the garden to enforce social distancing, the schedule is below.
+* People whose name are highlighted may garden on odd days of the month only. Others may garden only on even days.
 * If you share a plot with someone, you must coordinate and garden at different times.
 * We strongly recommend that you bring your own tools.
 * If you cannot, the shed will be open.
