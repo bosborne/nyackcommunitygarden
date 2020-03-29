@@ -24,7 +24,7 @@ required!
 
 Starting at 8 AM.
 
-***April 5*** is the day the Garden opens.
+***Saturday April 18*** is the day the Garden opens.
 
 Many vegetables do well in the spring, and you will get good germination
 because of the moister soil. You can plant transplants or sow seed for
