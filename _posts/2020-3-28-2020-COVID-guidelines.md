@@ -7,7 +7,7 @@ published: true
 
 Dear Gardeners,
 
-Due to COVID-19, The garden opening will will be DELAYED UNTIL SATURDAY, APRIL 18. 
+Due to COVID-19, the garden opening will will be DELAYED UNTIL SATURDAY, APRIL 18. 
 
 Also due to COVID-19 we must implement some VERY IMPORTANT new rules.
 
