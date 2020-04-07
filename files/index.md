@@ -7,7 +7,7 @@ published: true
 
 - [Committee Descriptions for 2020](/pdf/Committee_Descriptions_2020.pdf)
 - [Plots for 2020](/pdf/2020_NCG-Plot-Assignments.pdf)
-<!-- [Committee List for 2019](/pdf/Committee_List_2019.pdf) -->
+- [Committee Assignments for 2020](/pdf/2020_NCG_Committee_Assignments.pdf)
 
 
 Our Nyack Community Garden newsletters:
