@@ -8,7 +8,7 @@ published: true
 Dear Gardeners,
 
 The Garden will open on Saturday, April 18! We are delighted to be able to open the Garden at this time, but we recognize that if we do not adhere to the restrictions mandated by the state, this oasis can be taken away from us at any time.
-In order to enforce social distancing we are assigning alternating days for gardeners to be in their plots. A schedule shown below.
+In order to enforce social distancing we are assigning alternating days for gardeners to be in their plots. A schedule is shown below.
 
 People *WITH HIGHLIGHTED* names may garden on *ODD* days of the month. These plots and half-plots will have a red ribbon tied to the fence, near the plot number.
 
