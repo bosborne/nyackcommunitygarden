@@ -12,8 +12,7 @@ pageclass: garden-rules
 
 3. One 1⁄2 plot or full plot is allowed per household.
 
-4. All Garden plots must be fully planted by May 31, 2020. Unattended Garden plots will be re-
-assigned to persons on the waiting list.
+4. All Garden plots must be fully planted by May 31, 2020. Unattended Garden plots will be re-assigned to persons on the waiting list.
 
 5. No gardener may transfer his/her plot to another person without permission of the NCG Executive
 Committee.
