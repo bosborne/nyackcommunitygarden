@@ -20,7 +20,8 @@ Committee.
 6. <b>NEW FOR 2020 SEASON: All types of squash, zucchini, watermelon, pumpkin and cucumber are NOT permitted to 
 be planted in plots due to an invasive pest that spreads from plant to plant.</b> [About this rule.](https://nyackcommunitygarden.info/blog/2019-about-the-squash-borer)
 
-7. Every gardener must participate in at least one Nyack Community Garden committee, contribute at least six hours between the Garden’s opening and closing dates, and attend one work weekend.
+7. Every gardener must participate in at least one Nyack Community Garden committee, contribute at least six hours between 
+the Garden’s opening and closing dates, and attend one work weekend. [2020 Committee Assignments.](https://nyackcommunitygarden.info/pdf/2020_NCG_Committee_Assignments.pdf)
 
 8. Gates must be kept locked at all times.
 
