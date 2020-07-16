@@ -50,6 +50,13 @@ What is the most effective method, without using pesticides? From the article:
 *Practice rotation to minimize this issue by planting cucurbits in different areas of your garden (if possible) 
 or alternate seasons when you grow cucurbits.*
 
+Here's the same advice, from [Managing Squash Vine Borers in New Hampshire](/pdf/Managing Squash Vine Borers in New Hampshire.pdf):
+
+*Rotation can help reduce problems with this pest. Moving cucurbits to different fields year-to-year can reduce problems, 
+especially if the fields are far apart. In a backyard situation, the space is so small, moving the crop a few feet doesn’t 
+help prevent damage next year. One option is to skip a year: don’t grow any (susceptible types of ) squash or pumpkins next 
+year if you had significant damage this year. If your neighbor grows them just a few feet away, that defeats the purpose of this technique.*
+
 This method works, this is what an organic farmer would do. For example, they might have 2 separate fields, and plant
 summer squash in one of them in alternate years.
 
