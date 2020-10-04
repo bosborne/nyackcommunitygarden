@@ -60,10 +60,7 @@ Starting at 9 AM.
 
 Starting at 9 AM.
 
-***October 22*** is the Potluck Dinner.
-
-It's at 6:30, at the Nyack Center, 58 Depew Avenue, corner of S.
-Broadway
+***The Potluck Dinner has been cancelled this year due to COVID.***
 
 ***November 8*** is the day the Garden will close.
 
