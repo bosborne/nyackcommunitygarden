@@ -5,7 +5,7 @@ title: "Newsletters and Lists"
 published: true
 ---
 
-- [Committee Descriptions for 2020](/pdf/Committee_Descriptions_2020.pdf)
+- [Committee Descriptions for 2021](/pdf/Committee_Descriptions_2021.pdf)
 - [Plots for 2020](/pdf/2020_NCG-Plot-Assignments.pdf)
 - [Committee Assignments for 2020](/pdf/2020_NCG_Committee_Assignments.pdf)
 
