@@ -5,9 +5,32 @@ pageclass: garden-dates
 published: true
 ---
 
-## Garden Dates
+## Nyack Community Garden 2021 Calendar
 
-***February 22*** is the application deadline.
+***Jan. 26 - Feb. 22*** Application period
+
+***Feb. 22*** Postmark application deadline
+
+***April 3 (8 am)*** Staking of plots
+
+***April 4*** Garden opens
+
+***April 4 - Nov. 7*** Planting, growing, maintaining and harvesting garden; performing committee tasks; having fun at the garden
+
+***May 31*** Deadline for planting plots
+
+***After May 31*** Unplanted or unmaintained plots assigned to persons on waiting list
+
+***TBD (to be determined)*** Garden Contest
+
+***Oct., date TBD*** Pot Luck Dinner with prizes awarded to attending contest winners and free raffle for all attendees
+
+***Nov. 7*** Garden closes; all items removed and plots restored to state they were in on April 4.
+
+***Nov. 13*** (8 am) Winter prep and clean-up
+
+
+<!--
 
 New gardeners are encouraged to mail in completed applications as soon
 as possible as priority on the waiting list for plots is determined by
@@ -70,3 +93,5 @@ All items most be removed and plots restored to state they had on April
 ***November 14*** is Winter prep and clean-up.
 
 Starting at 8 AM.
+
+-->
