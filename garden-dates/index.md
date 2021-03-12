@@ -15,11 +15,7 @@ published: true
 
 ***April 4*** Garden opens
 
-***April 4 - Nov. 7*** Planting, growing, maintaining and harvesting garden; performing committee tasks; having fun at the garden
-
-***May 31*** Deadline for planting plots
-
-***After May 31*** Unplanted or unmaintained plots assigned to persons on waiting list
+***May 31*** Deadline for planting plots - unplanted or unmaintained plots assigned to persons on waiting list
 
 ***TBD (to be determined)*** Garden Contest
 
