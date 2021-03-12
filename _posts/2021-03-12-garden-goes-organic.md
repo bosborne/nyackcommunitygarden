@@ -29,4 +29,4 @@ Garden because of the unique webbed structure of the soil environment. Love
 the soil in your plot, and it will love you back by producing nutritious and
 delicious food for you! 
 
-See [The Nyack Community Garden Goes Organic!](/pdf/Nyack Community Garden Goes Organic.pdf), 
+See [The Nyack Community Garden Goes Organic!](/pdf/Nyack Community Garden Goes Organic.pdf).
