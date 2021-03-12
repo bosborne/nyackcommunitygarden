@@ -17,7 +17,7 @@ published: true
 
 ***May 31*** Deadline for planting plots - unplanted or unmaintained plots assigned to persons on waiting list
 
-***TBD (to be determined)*** Garden Contest
+***To be determined*** Garden Contest
 
 ***October (to be determined)*** Pot Luck Dinner with prizes awarded to attending contest winners and free raffle for all attendees
 
