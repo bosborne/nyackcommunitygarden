@@ -7,7 +7,7 @@ published: true
 
 - [The Nyack Community Garden Goes Organic](/pdf/Nyack Community Garden Goes Organic.pdf)
 - [Committee Descriptions for 2021](/pdf/Committee_Descriptions_2021.pdf)
-- [Plots for 2021](/pdf/2021 NCG Plot Assignments.pdf)
+<!-- - [Plots for 2021](/pdf/2021 NCG Plot Assignments.pdf) -->
 - [Committee Assignments for 2021](/pdf/2021 NCG Committee Assignments.pdf)
 
 
