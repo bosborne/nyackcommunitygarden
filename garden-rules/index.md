@@ -6,7 +6,7 @@ pageclass: garden-rules
 
 ## Garden Rules
 
-1. Gardeners must maintain at least six-foot distance from others and wear a mask in accordance with state guidelines.
+1. If you are not vaccinated or are unable to maintain a six-foot distance from your fellow gardeners, wear a mask.
 
 2. Garden membership is at the discretion of the Nyack Community Garden’s Executive Committee.
 
