@@ -17,7 +17,7 @@ published: true
 
 ***May 31*** Deadline for planting plots - unplanted or unmaintained plots assigned to persons on waiting list
 
-***To be determined*** Garden Contest
+***July 22*** Garden Contest, winners receive blue ribbons!
 
 ***October (to be determined)*** Pot Luck Dinner with prizes awarded to attending contest winners and free raffle for all attendees
 
@@ -67,9 +67,9 @@ with such a high demand.
 
 Unplanted plots will be assigned to persons on the waiting list.
 
-***TBD*** is the day of the Garden Contest.
+***July 22*** is the day of the Garden Contest.
 
-Winners receive ribbons!
+Winners receive blue ribbons!
 
 ***June 13, 14, 15*** is the Spring Work Weekend.
 
