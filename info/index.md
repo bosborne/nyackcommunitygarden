@@ -22,5 +22,5 @@ At the Nyack Community Garden each plot is unique, displaying the diversity of N
 
 The vital support of the [Robert Martin Company](http://robertmartincompany.com), in concert with the Community Housing Management Corporation, is greatly appreciated.
 
-For information on how to become a member of the Nyack Community Garden please email [nyackcommunitygarden@gmail.com](mailto:nyackcommunitygarden@gmail.com).
+For information on how to become a member of the Nyack Community Garden please email [membership@nyackcommunitygarden.info](mailto:membership@nyackcommunitygarden.info).
 
