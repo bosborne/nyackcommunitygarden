@@ -31,7 +31,6 @@ Housing Management Corporation, is greatly appreciated.
 *Early photograph of Garden when surrounded by snow fence. Probably taken around 1980. Collection of Nyack Public Library.*
 
 For information on how to become a member of the Nyack Community Garden
-please [email membership@nyackcommunitygarden.info](mailto:membership@nyackcommunitygarden.info)
-).
+please [email membership@nyackcommunitygarden.info](mailto:membership@nyackcommunitygarden.info).
 
 [More info ....](/info/)
