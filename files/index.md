@@ -5,14 +5,15 @@ title: "Newsletters and Lists"
 published: true
 ---
 
-- [The Nyack Community Garden Goes Organic](/pdf/Nyack Community Garden Goes Organic.pdf)
-- [Committee Descriptions for 2021](/pdf/Committee_Descriptions_2021.pdf)
+- [Committee Descriptions for 2022](/pdf/2022 NCG Committees.pdf)
+<!--
 - [Plot Assignments for 2021](/pdf/2021 NCG Plot Assignments.pdf)
 - [Committee Assignments for 2021](/pdf/2021 NCG Committee Assignments.pdf)
-
+-->
 
 Our Nyack Community Garden newsletters:
 
+- [The Nyack Community Garden Goes Organic](/pdf/Nyack Community Garden Goes Organic.pdf)
 - [Newsletter October-November 2021](/pdf/Newsletter_Oct_Nov_2021.pdf)
 - [Newsletter July-August 2021](/pdf/Newsletter_July_August_2021.pdf)
 - [Newsletter October-November 2020](/pdf/Newsletter-Oct-Nov-2020.pdf)
