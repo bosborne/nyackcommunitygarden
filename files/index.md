@@ -6,10 +6,6 @@ published: true
 ---
 
 - [Committee Descriptions for 2022](/pdf/2022 NCG Committees.pdf)
-<!--
-- [Plot Assignments for 2021](/pdf/2021 NCG Plot Assignments.pdf)
-- [Committee Assignments for 2021](/pdf/2021 NCG Committee Assignments.pdf)
--->
 
 Our Nyack Community Garden newsletters:
 
