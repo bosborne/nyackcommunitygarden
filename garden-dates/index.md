@@ -19,7 +19,7 @@ published: true
 
 ***April 3 - Nov. 7*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; having fun at the garden
 
-***May 21*** Seedling sale to benefit the Nyack Homeless Project
+***May 21*** Seedling sale to benefit the [Nyack Homeless Project](https://www.nyackhp.org/)
 
 ***May 31*** Deadline for planting plots
 
@@ -29,7 +29,7 @@ published: true
 
 ***October 20*** Pot Luck Dinner with prizes awarded to attending contest winners and free raffle for all attendees
 
-***November 13*** Garden closes; all items removed and plots restored to state they were in on April 4th
+***November 13*** Garden closes; all items removed and plots restored to state they were in on April 3rd
 
 ***November 20*** at 8 AM Winter prep and clean-up
 
