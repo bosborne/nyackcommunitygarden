@@ -19,7 +19,7 @@ published: true
 
 ***April 3 - Nov. 7*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; having fun at the garden
 
-***May 21*** Seedling sale
+***May 21*** Seedling sale to benefit the Nyack Homeless Project
 
 ***May 31*** Deadline for planting plots
 

@@ -5,7 +5,9 @@ title: "Newsletters and Lists"
 published: true
 ---
 
-- [Committee Descriptions for 2022](/pdf/2022 NCG Committees.pdf)
+- [Plot Assignments for 2022](/pdf/2022 NCG Plot Assignments.pdf)
+- [Committee Assignments for 2022](/pdf/2022 NCG_Committees.pdf)
+- [Committee Descriptions for 2022](/pdf/2022 NCG Committee Descriptions.pdf)
 
 Our Nyack Community Garden newsletters:
 
@@ -30,8 +32,3 @@ Our Nyack Community Garden newsletters:
 - [Newsletter August 2013](/pdf/Newsletter_August_2013.pdf)
 - [Newsletter August 2012](/pdf/Newsletter_August_2012.pdf)
 - [Newsletter September 2011](/pdf/Newsletter_September_2011.pdf)
-
-
-
-
-
