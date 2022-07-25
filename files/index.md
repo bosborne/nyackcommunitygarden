@@ -1,16 +1,13 @@
 ---
 layout: default
 pageclass: files
-title: "Newsletters and Lists"
+title: "Nyack Community Garden Newsletters"
 published: true
 ---
 
-- [Plot Assignments for 2022](/pdf/2022 NCG Plot Assignments.pdf)
-- [Committee Assignments for 2022](/pdf/2022 NCG_Committees.pdf)
-- [Committee Descriptions for 2022](/pdf/2022 NCG Committee Descriptions.pdf)
-
 Our Nyack Community Garden newsletters:
 
+- [Newsletter July-August 2022](/pdf/NCG Newsletter July August 2022.pdf)
 - [The Nyack Community Garden Goes Organic](/pdf/Nyack Community Garden Goes Organic.pdf)
 - [Newsletter October-November 2021](/pdf/Newsletter_Oct_Nov_2021.pdf)
 - [Newsletter July-August 2021](/pdf/Newsletter_July_August_2021.pdf)
