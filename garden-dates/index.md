@@ -25,7 +25,7 @@ published: true
 
 ***After May 31*** Unplanted plots assigned to gardeners on the waitlist
 
-***TBD*** Garden Contest
+***July 27*** Garden Contest
 
 ***October 20*** Pot Luck Dinner with prizes awarded to attending contest winners and free raffle for all attendees
 
