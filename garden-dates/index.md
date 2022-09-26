@@ -27,7 +27,7 @@ published: true
 
 ***July 27*** Garden Contest
 
-***October 20*** Pot Luck Dinner with prizes awarded to attending contest winners and free raffle for all attendees
+***October 27*** - Potluck Dinner, Thursday, October 27 7 PM, at the Nyack Senior Center (90 Depew Ave.)
 
 ***November 13*** Garden closes; all items removed and plots restored to state they were in on April 3rd
 
