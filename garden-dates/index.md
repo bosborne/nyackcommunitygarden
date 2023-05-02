@@ -21,7 +21,7 @@ published: true
 
 ***April 2 - November 12*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
 
-***May 20*** Seedling sale (Rain date: May 21)
+***May 20*** Plant sale (Rain date: May 21)
 
 ***May 21*** Deadline for clearing plots
 
