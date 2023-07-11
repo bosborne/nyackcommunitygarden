@@ -7,6 +7,7 @@ published: true
 
 Our Nyack Community Garden newsletters:
 
+- [Newsletter Summer 2023](/pdf/NCG_2023_Summer_Newsletter.pdf)
 - [Newsletter July-August 2022](/pdf/NCG Newsletter July August 2022.pdf)
 - [The Nyack Community Garden Goes Organic](/pdf/Nyack Community Garden Goes Organic.pdf)
 - [Newsletter October-November 2021](/pdf/Newsletter_Oct_Nov_2021.pdf)
