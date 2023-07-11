@@ -27,9 +27,9 @@ published: true
 
 ***May 25*** Uncleared plots assigned to gardeners on the waitlist
 
-***TBD*** Garden Contest
-
 ***July 15*** Summer clean-up (Rain date July 16)
+
+***July 27*** Garden Contest Judging
 
 ***September 14*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
 
