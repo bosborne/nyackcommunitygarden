@@ -33,7 +33,7 @@ published: true
 
 ***September 14*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
 
-***October 14*** Fall clean-up
+***October 21*** Fall clean-up
 
 ***November 12*** Garden closes – Gardeners must fully clear plots 
 
