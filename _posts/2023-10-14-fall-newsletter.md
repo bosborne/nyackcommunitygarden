@@ -10,18 +10,21 @@ There are also pictures from the Garden Contest, where this year’s winners wer
 
 Best Vegetable Garden:
 
-   1st Place - #14, Aaris Sherin
-   2nd Place - #9, Stephanie Salter
+    1st Place - #14, Aaris Sherin
+
+    2nd Place - #9, Stephanie Salter
 
 Best Flowers and Vegetables:
 
-   1st Place - #38, Gayle Sturmer/Eric Rosenberg
-   2nd Place – #21B, Liz Cherry/ Michelle Morales
+    1st Place - #38, Gayle Sturmer/Eric Rosenberg
+
+    2nd Place – #21B, Liz Cherry/ Michelle Morales
 
 Most Creative:
 
-   1st Place - #48, Nicole & Donna Faustini
-   2nd Place - #36, Jayne Stuecklen/David Kiremidjian
+    1st Place - #48, Nicole & Donna Faustini
+
+    2nd Place - #36, Jayne Stuecklen/David Kiremidjian
 
 Best Over All: #45 & #46
 
