@@ -1,7 +1,7 @@
 ---
 layout: post
 pageclass: blog
-title: "Newsletter for September and October 2022"
+title: "Newsletter for Fall 2023"
 published: true
 ---
 Check out our [Fall 2023 newsletter](/pdf/NCG_2023_Fall_Newsletter.pdf), which is our “Sharing” Issue. There are articles on sharing work and garden plots, sharing the garden with hummingbirds, sharing food through Plant-a-Row, plants sharing the soil through companion planting, and sharing a meal at our annual Potluck dinner. 
