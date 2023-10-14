@@ -6,7 +6,7 @@ published: true
 ---
 Check out our [Fall 2023 newsletter](/pdf/NCG_2023_Fall_Newsletter.pdf), which is our “Sharing” Issue. There are articles on sharing work and garden plots, sharing the garden with hummingbirds, sharing food through Plant-a-Row, plants sharing the soil through companion planting, and sharing a meal at our annual Potluck dinner. 
 
-There are also picture from the Garden Contest, where this year’s winners were:
+There are also pictures from the Garden Contest, where this year’s winners were:
 
 Best Vegetable Garden:
 
