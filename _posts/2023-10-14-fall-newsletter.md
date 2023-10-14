@@ -26,6 +26,6 @@ Most Creative:
 
     2nd Place - #36, Jayne Stuecklen/David Kiremidjian
 
-Best Over All: #45 & #46
+Best Over All:
 
-    Cristiane Bertone/Glen Holley, Alley Olsen, Nancy Gray/Elizabeth Turk
+    #45 & #46, Cristiane Bertone/Glen Holley, Alley Olsen, Nancy Gray/Elizabeth Turk
