@@ -28,6 +28,4 @@ Most Creative:
 
 Best Over All: #45 & #46
 
-   Cristiane Bertone/Glen Holley
-   Alley Olsen
-   Nancy Gray/Elizabeth Turk
+    Cristiane Bertone/Glen Holley, Alley Olsen, Nancy Gray/Elizabeth Turk
