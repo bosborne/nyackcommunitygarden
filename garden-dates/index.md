@@ -5,39 +5,37 @@ pageclass: garden-dates
 published: true
 ---
 
-## Nyack Community Garden 2023 Calendar
+## Nyack Community Garden 2024 Calendar
 
-***January 30*** Applications emailed out
+***January 29*** Applications emailed out
 
-***February 21*** Postmark deadline for applications
+***February 20*** Postmark deadline for applications
 
-***March 15*** Plot and committee assignments emailed
+***March 13*** Plot and committee assignments emailed
 
-***March 23 at 7 PM*** MANDATORY General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
+***March 21 at 7 PM*** MANDATORY General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
 
-***April 1 at 8 AM*** Staking of plots
+***March 30 at 8 AM*** Staking of plots
 
-***April 2*** Garden opens!!
+***March 31*** Garden opens!!
 
-***April 2 - November 12*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
+***March 31 - November 10*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
 
-***May 20*** Plant sale from 10 to 2 (Rain date: May 21)
+***May 19*** Deadline for clearing plots
 
-***May 21*** Deadline for clearing plots
+***May 26*** Uncleared plots assigned to gardeners on the waitlist
 
-***May 25*** Uncleared plots assigned to gardeners on the waitlist
+***July 14*** Summer clean-up (Rain date July 15)
 
-***July 15*** Summer clean-up, 9-11 AM (Rain date July 16)
+***TBD*** Garden Contest Judging
 
-***July 27*** Garden Contest Judging
+***September 19*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
 
-***September 14*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
+***October 19*** Fall clean-up
 
-***October 21*** Fall clean-up
+***November 10*** Garden closes – Gardeners must fully clear plots 
 
-***November 12*** Garden closes – Gardeners must fully clear plots 
-
-***November 18 at 8 AM*** Winter prep and clean-up
+***November 17 at 9 AM*** Winter prep and clean-up
 
 <!--
 ***January 30*** Applications emailed out
