@@ -21,9 +21,9 @@ published: true
 
 ***March 31 - November 10*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
 
-***May 19*** Deadline for clearing plots
+***May 19*** Deadline for fully planting plots
 
-***May 26*** Uncleared plots assigned to gardeners on the waitlist
+***May 26*** Unplanted plots assigned to gardeners on the waitlist
 
 ***July 14*** Summer clean-up (Rain date July 15)
 
