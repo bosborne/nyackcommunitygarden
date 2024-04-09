@@ -35,4 +35,3 @@ disabled person.
 <b><i>
 Failure to adhere to the rules and regulations at any time may result in the loss of garden membership or other penalties.
 </i></b>
-
