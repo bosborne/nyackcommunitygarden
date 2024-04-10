@@ -33,7 +33,7 @@ published: true
 
 ***October 19*** Fall clean-up
 
-***November 10*** Garden closes – Gardeners must fully clear plots 
+***November 10*** Garden closes – Gardeners must fully clear plots
 
 ***November 17 at 9 AM*** Winter prep and clean-up
 
@@ -52,4 +52,3 @@ published: true
 ***November 13*** Garden closes; all items removed and plots restored to state they were in on April 3rd
 ***November 20*** at 8 AM Winter prep and clean-up
 -->
-
