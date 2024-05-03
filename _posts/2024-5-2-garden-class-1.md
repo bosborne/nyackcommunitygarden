@@ -1,7 +1,7 @@
 ---
 layout: post
 pageclass: blog
-title: "Garden Class #1"
+title: "Garden Class on seeding and tools"
 published: true
 ---
 A week or so ago we held a garden class where we planted the [Elegance Greens Mix](https://www.johnnyseeds.com/vegetables/greens/greens-mixes/elegance-greens-mix-vegetable-seed-653.html) from Johnny's. This mix is mostly different *mustard* varieties (*Brassica* species) that grow fast and like cool weather, perfect for spring and fall.
