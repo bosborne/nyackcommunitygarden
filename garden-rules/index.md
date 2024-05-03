@@ -5,6 +5,7 @@ pageclass: garden-rules
 ---
 
 ## Garden Rules
+
 1. Membership is at the discretion of the Nyack Community Garden’s Executive Committee.
 2. All members must attend the general meeting on March 21.
 3. Gates must be locked at all times and keys cannot be duplicated.
