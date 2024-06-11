@@ -7,6 +7,21 @@
   <link rel="stylesheet" href="{{ site.url }}/ncg/css/main.css">
   <meta name="description" value="Nyack Community Garden in Nyack, NY, USA">
   <meta name="keywords" value="garden, vegetable, community">
-  <meta name="robots" content="index, follow"/>
+  <meta name="robots" content="index, follow" />
   {% include analytics.html %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+          "name": "Nyack Community Garden",
+            "address": {
+        "@type": "PostalAddress",
+          "streetAddress": "51 South Franklin Street",
+            "addressLocality": "Nyack",
+              "addressRegion": "NY",
+                "postalCode": "10960"
+      },
+      // Add optional properties here (telephone, description, url)
+    }
+  </script>
 </head>
