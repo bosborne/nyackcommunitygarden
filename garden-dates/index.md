@@ -25,7 +25,7 @@ published: true
 
 ***May 26*** Unplanted plots assigned to gardeners on the waitlist
 
-***July 14*** Summer clean-up (Rain date July 15)
+***July 13*** Sumer Clean-up will take place this Saturday, July 13th from 9-11 am
 
 ***TBD*** Garden Contest Judging
 
