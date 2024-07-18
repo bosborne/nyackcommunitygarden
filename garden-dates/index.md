@@ -27,7 +27,7 @@ published: true
 
 ***July 14*** Summer Clean-up will take place Sunday, July 14th from 9-11 am
 
-***TBD*** Garden Contest Judging
+***Thursday, July 25, at 10AM*** The annual Nyack Community Garden Contest
 
 ***September 19*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
 
