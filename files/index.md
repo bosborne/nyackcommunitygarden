@@ -7,6 +7,7 @@ published: true
 
 Our Nyack Community Garden newsletters:
 
+- [Newsletter Fall 2024](/pdf/NCG_2024_Fall_Newsletter.pdf)
 - [Newsletter Summer 2024](/pdf/Newsletter_Summer_2024.pdf)
 - [Newsletter Fall 2023](/pdf/NCG_2023_Fall_Newsletter.pdf)
 - [Newsletter Summer 2023](/pdf/NCG_2023_Summer_Newsletter.pdf)
