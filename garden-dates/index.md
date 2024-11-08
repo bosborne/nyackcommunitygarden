@@ -35,7 +35,7 @@ published: true
 
 ***November 10*** Garden closes – Gardeners must fully clear plots
 
-***November 17 at 9 AM*** Winter prep and clean-up
+***November 16 at 9 AM*** Winter prep and clean-up
 
 <!--
 ***January 30*** Applications emailed out
