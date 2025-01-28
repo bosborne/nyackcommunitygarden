@@ -7,17 +7,17 @@ published: true
 
 ## Nyack Community Garden 2024 Calendar
 
-***January 29*** Applications emailed out
+***February 6*** Applications emailed out
 
-***February 20*** Postmark deadline for applications
+***February 28*** Postmark deadline for applications
 
 ***March 13*** Plot and committee assignments emailed
 
-***March 21 at 7 PM*** MANDATORY General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
+***TBD*** MANDATORY General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
 
-***March 30 at 8 AM*** Staking of plots
+***TBD*** Staking of plots
 
-***March 31*** Garden opens!!
+***TBD*** Garden opens!!
 
 ***March 31 - November 10*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
 
