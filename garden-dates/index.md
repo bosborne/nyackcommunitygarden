@@ -5,37 +5,37 @@ pageclass: garden-dates
 published: true
 ---
 
-## Nyack Community Garden 2024 Calendar
+## Nyack Community Garden 2025 Calendar
 
-***February 6*** Applications emailed out
+***Thursday February 6*** Applications emailed out
 
-***February 28*** Postmark deadline for applications
+***Friday February 28*** Postmark deadline for applications
 
-***March 13*** Plot and committee assignments emailed
+***Thursday March 13*** Plot and committee assignments
 
-***TBD*** MANDATORY General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
+***Thursday March 20 at 7 PM*** **Mandatory** General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
 
-***TBD*** Staking of plots
+***Saturday March 29 at 8 AM*** Staking of plots
 
-***TBD*** Garden opens!!
+***Sunday March 30*** Garden opens!!
 
-***March 31 - November 10*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
+***March 30 - November 2*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
 
-***May 19*** Deadline for fully planting plots
+***Sunday May 18*** Deadline for fully planting plots
 
-***May 26*** Unplanted plots assigned to gardeners on the waitlist
+***Sunday May 25*** Unplanted plots assigned to gardeners on the waitlist
 
-***July 14*** Summer Clean-up will take place Sunday, July 14th from 9-11 am
+***Sunday July 13 at 9 AM*** Summer Clean-up
 
-***Thursday, July 25, at 10AM*** The annual Nyack Community Garden Contest
+***Thursday July 24 at 10AM*** The annual Nyack Community Garden Contest
 
-***September 19*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
+***Thursday September 18 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
 
-***October 19*** Fall clean-up
+***Sunday October 19 at 9 AM*** Fall Clean-up
 
-***November 10*** Garden closes – Gardeners must fully clear plots
+***Sunday November 2*** Garden closes - Gardeners must fully clear plots
 
-***November 16 at 8 AM*** Winter prep and clean-up by the End of Season Cleanup Committee
+***Sunday November 9 at 8 AM*** Winter prep and clean-up by the End of Season Cleanup Committee
 
 <!--
 ***January 30*** Applications emailed out
