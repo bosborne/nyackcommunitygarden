@@ -29,7 +29,7 @@ published: true
 
 ***Thursday July 24 at 10AM*** The annual Nyack Community Garden Contest
 
-***Thursday September 18 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for all attendees
+***Thursday September 18 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for attendees
 
 ***Sunday October 19 at 9 AM*** Fall Clean-up
 
