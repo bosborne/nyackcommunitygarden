@@ -19,7 +19,7 @@ published: true
 
 ***Sunday March 30*** Garden opens!!
 
-***March 30 - November 2*** Planting, growing, maintaining and harvesting garden; participating in Garden Contest; performing committee tasks; enjoying the garden and its bounty
+***March 30 - November 2*** Planting, growing, maintaining and harvesting
 
 ***Sunday May 18*** Deadline for fully planting plots
 
