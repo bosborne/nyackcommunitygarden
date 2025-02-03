@@ -17,13 +17,13 @@ published: true
 
 ***Saturday March 29 at 8 AM*** Staking of plots
 
-***Sunday March 30*** Garden opens!!
+***Sunday March 30*** Garden opens!
 
 ***March 30 - November 2*** Planting, growing, maintaining and harvesting
 
 ***Sunday May 18*** Deadline for fully planting plots
 
-***Sunday May 25*** Unplanted plots assigned to gardeners on the waitlist
+***Sunday May 25*** Unplanted plots assigned to gardeners on the waiting list
 
 ***Sunday July 13 at 9 AM*** Summer Clean-up
 
