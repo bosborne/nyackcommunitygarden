@@ -25,13 +25,15 @@ published: true
 
 ***Sunday May 25*** Unplanted plots assigned to gardeners on the waiting list
 
+***Saturday June 7 at 9 AM*** Spring Clean-up
+
 ***Sunday July 13 at 9 AM*** Summer Clean-up
 
 ***Thursday July 24 at 10AM*** The annual Nyack Community Garden Contest
 
 ***Thursday September 18 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for attendees
 
-***Sunday October 19 at 9 AM*** Fall Clean-up
+***Sunday October 18 at 9 AM*** Fall Clean-up
 
 ***Sunday November 2*** Garden closes - Gardeners must fully clear plots
 
