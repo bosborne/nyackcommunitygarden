@@ -35,7 +35,7 @@ published: true
 
 ***Thursday September 18 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for attendees
 
-***Sunday October 18 at 9 AM*** Fall Clean Up
+***Sunday October 18 at 9 AM*** Fall Clean Up (Rain data October 17)
 
 ***Sunday November 2*** Garden closes - Gardeners must fully clear plots
 
