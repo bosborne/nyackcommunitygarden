@@ -7,7 +7,7 @@ published: true
 
 ## Nyack Community Garden 2025 Calendar
 
-***Thursday February 6*** Applications mailed out to Gardeners
+***Thursday February 6*** Applications emailed out to Gardeners
 
 ***Friday February 28*** Postmark deadline for applications
 
