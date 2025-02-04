@@ -11,9 +11,9 @@ published: true
 
 ***Friday February 28*** Postmark deadline for applications
 
-***Thursday March 13*** Plot and committee assignments
-
 ***Thursday March 20 at 7 PM*** **Mandatory** General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
+
+***Thursday March 24*** Plot and committee assignments emailed
 
 ***Saturday March 29 at 8 AM*** Staking of plots
 
@@ -25,15 +25,17 @@ published: true
 
 ***Sunday May 25*** Unplanted plots assigned to gardeners on the waiting list
 
-***Saturday June 7 at 9 AM*** Spring Clean-up
+***Saturday June 7 at 9 AM*** Spring Clean Up (Rain date June 8)
 
-***Sunday July 13 at 9 AM*** Summer Clean-up
+***Sunday July 13 at 9 AM*** Summer Clean Up (Rain date July 12)
 
-***Thursday July 24 at 10AM*** The annual Nyack Community Garden Contest
+***Saturday August 23 at 9 AM*** End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 24)
+
+***TBD*** The annual Nyack Community Garden Contest
 
 ***Thursday September 18 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle for attendees
 
-***Sunday October 18 at 9 AM*** Fall Clean-up
+***Sunday October 18 at 9 AM*** Fall Clean Up
 
 ***Sunday November 2*** Garden closes - Gardeners must fully clear plots
 
