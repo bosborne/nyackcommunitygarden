@@ -26,13 +26,11 @@ all climbing plants during the entire season. This is a mandate from our generou
 15. Bag all plant waste in brown compost bags and take them to the Depew Ave. curb.
 Non-organic matter should be placed in the black garbage bin and taken to the curb when full.
 16. Place unwanted rocks adjacent to the fence in your plot.
-17. The garden closing date is November 10 at which point all plots must be cleared to look just as they
+17. The garden closing date is November 2 at which point all plots must be cleared to look just as they
 did when the garden opened in the spring.
 18. The Nyack Community Garden is not responsible for plants and other personal items left in
 the garden.
 19. No dogs are allowed in the garden with the exception of service animals trained to aid a
 disabled person.
 
-<b><i>
-Failure to adhere to the rules and regulations at any time may result in the loss of garden membership or other penalties.
-</i></b>
+**Failure to adhere to the rules and regulations at any time may result in the loss of garden membership or other penalties.**
