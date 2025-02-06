@@ -10,7 +10,7 @@ pageclass: garden-rules
 2. All members must attend the general meeting on March 20.
 3. Gates must be locked at all times and keys cannot be duplicated.
 4. A 1⁄2 plot or one full plot is allowed per household.
-5. Plots must be cleared of weeds and ready to plant by May 18 or the plot will be re-assigned to someone on the waitlist.
+5. Plots must be cleared of weeds and fully planted by May 18 or the plot will be re-assigned to someone on the waitlist.
 6. Sunflowers, corn, tall plants, and non-permeable ground cover are not permitted.
 7. Gardeners can not transfer a plot to another person without prior permission of the NCG Board.
 8. Every gardener must participate in 1 or 2 (depending on time commitment) assigned committees and contribute at least six hours of work during the season.
